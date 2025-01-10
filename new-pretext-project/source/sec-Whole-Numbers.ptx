@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-Whole-Numbers" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Whole-Numbers</title>
+
+  <p> 
+    <em> Worked Example </em>
+  </p>
+  <p>
+    In a certain country, nenya, the number of people who had been vaccinated against Corona Virus disease(COVID-19) by the end of a certain year was <m>14685073.</m> What is the place values of digits <m>1</m> and <m>4</m> in the number <m>14685073.</m>? 
+  </p>
+   <solution>
+    <p>
+    Write the number <m>14685073.</m> on a place value chart as shown below. 
+    </p>
+    <table>
+  <tabular halign="center" top="medium" left="medium" bottom="medium" right="medium">
+    <row header="vertical">
+      <cell>Tens of millions</cell>
+      <cell>Millions</cell>
+      <cell>Hundred of millions</cell>
+      <cell>Tens of thousands</cell>
+      <cell>Thousands</cell>
+      <cell>Hundreds</cell>
+      <cell>Tens</cell>
+      <cell>Ones</cell>
+    </row>
+    <row>
+      <cell>1</cell>
+      <cell>4</cell>
+      <cell>6</cell>
+      <cell>8</cell>
+      <cell>5</cell>
+      <cell>0</cell>
+      <cell>7</cell>
+      <cell>2</cell>
+    </row>
+  </tabular>
+</table>
+<p>
+  The place value of digit <m>4</m> is millions
+</p>
+<p>
+  The place value of digit <m>1</m> is tens of millions
+</p>
+   </solution>
+</section>

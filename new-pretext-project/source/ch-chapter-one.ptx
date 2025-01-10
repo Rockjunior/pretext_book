@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-chapter-one" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Numbers</title>
+
+  <introduction>
+    <p> Introduction </p>
+  </introduction>
+
+  <!-- include sections -->
+  <xi:include href="sec-Whole-Numbers.ptx" />
+
+  <!-- include sections -->
+  <xi:include href="sec-Factors.ptx" />
+
+<!-- include sections -->
+  <xi:include href="sec-Fractions.ptx" />
+
+!-- include sections -->
+  <xi:include href="sec-Decimals.ptx" />
+
+!-- include sections -->
+  <xi:include href="sec-Squares-and-square-roots.ptx" />
+
+</chapter>

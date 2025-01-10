@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-Algebraic-expressions" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Algebraic-expressions</title>
+  
+   <subsection xml:id="subsec-Formation_of_Algebraic_Expression_from_real_life_situations">
+    <title>Formation of Algebraic Expression from real life situations</title>
+    <activity>
+     <p> <em>Work in groups</em> </p>
+       <p>
+        (i) Identify and form four groups of objects according to their
+          similarities.
+       </p>
+       <p>
+        (ii) To each group add or subtract a number of items.
+       </p>
+       <p>
+        (iii) Form and write expressions to represent the new number of items
+        in each group.
+       </p>
+       <p>
+        (iv) Discuss and share with other groups.
+       </p>
+        Learning point
+        <p>
+          The expressions formed are algebraic expressions. The expressions are
+          in one unknown.
+        </p>
+            <example>
+          <p>
+          1. In a classroom of 30 learners there are n boys. Form an expression for
+            the number of girls.
+          </p>
+          <p>
+            <em>Solution</em>
+          </p>
+          <p>
+            The number of girls is <m>30 - n</m>
+          </p>
+          <p>
+          2. There are x mangoes and y orange trees in a farm.Form an expression
+          for the total number of mango and orange trees in the farm.
+          </p> 
+        </example>
+  </activity> 
+   </subsection>
+</section>

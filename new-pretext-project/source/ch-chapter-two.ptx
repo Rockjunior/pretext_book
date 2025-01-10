@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-chapter-two" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Algebra</title>
+
+  <introduction>
+    <p> Introduction </p>
+  </introduction>
+
+  <!-- include sections -->
+  <xi:include href="sec-Algebraic-expressions.ptx" />
+
+  <!-- include sections -->
+  <xi:include href="sec-Linear-equations.ptx" />
+
+<!-- include sections -->
+  <xi:include href="sec-Linear-inequalities.ptx" />
+
+
+</chapter>
