@@ -3,6 +3,423 @@
 <section xml:id="sec-Linear-inequalities" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Linear-inequalities</title>
 
-  <p> Text of section. </p>
+    <subsection xml:id="subsec-Inequality Symbols">
+      <title>Applying Linear Inequality Symbols to Inequality Statements.</title>
+          <activity>
+            <p><em>Work in Groups.</em></p>
+          <ol>
+            <li><p>You will need a sea- saw.</p></li>
+            <li><p>One learner to sit on one end of the sea-saw and another on the other end.</p></li>
+            <li><p>Find out who is heavier.</p></li>
+            <li><p>Find out who is lighter.</p></li>
+            <li><p>Repeat the information using the inequality symbols.</p></li>
+              <hint>
+                  <p>Assuming that John lifted Mary on the sea-saw, this can be written as:</p>
+                    <p>John's mass <m>\gt</m> Mary's mass</p>
+                      <p>or</p>
+                    <p>Mary's mass &lt; John's mass</p>
+              </hint>
+                <image source="assets/images/sea-saw.png" width="50%">
+                  <shortdescription>Image showing Mary and John on the sea-saw.</shortdescription>
+                </image>
+            <li><p>6. Share your work with other learners in the class.</p></li>
+          </ol>
+          </activity>
+
+          <activity>
+            <p><em>Work in Groups.</em></p>
+              <p>Read the story below and answer the questions that follow.</p>
+                <p>Harriet visited a nutritionist. She was advised not to take more than two eggs in a day.
+                She was also advised to be eating not less than three fruits in a day.</p>
+          <ol>
+            <li><p>Why is it important to include fruits in our diet?</p></li>
+            <li><p>How can we represent the above information using inequality symbols?</p></li>
+              <hint>
+                <p>The number of eggs in a day should be <em>less than or equal</em> to 2</p>
+                  <p>Number of egg is <m>\le</m>2.</p>
+                  <p>The number of fruits in day should be <em>greater or equal</em> to 3</p>
+                <p>Number of fruits is <m>\ge</m>3</p>
+              </hint>
+            <li><p>Share your findings with other learners.</p></li>
+          </ol>
+          </activity>
+
+          <example>
+            <p>Use the symbols <em>greater than or less than</em>to compare the following pairs of numbers;</p>
+              <li><p>(a) 4 and 9</p> <p>(b) 16 and 11</p></li>
+
+                <p>Solution</p>
+              <p>(a) 4 is less than 9 which is written as 4 &lt; 9</p>
+            <p>(b) 16 is greater than 11 which is written as 16 &gt; 11</p>
+          </example>
+
+          <example>
+            <p>In a village each family has atleast seven goats. Using letter <em>g</em>to represent goatsx, written an inequality to represent the statement given.</p>
+              <p>Solution.</p>
+            <p>g &gt; 7</p>
+          </example>
+
+          <exercise>
+            <title>Exercise 1.</title>
+           <task>
+            <statement>
+              <p>Write the following sentences using symbols.</p>
+              <ol>
+                <li><p>Sixteen is greater than twelve.</p></li>
+                <li><p>Forty five is less than fifty five.</p></li>
+                <li><p>Three hundred and eighty six is greater than two hundred and eighty eight.</p></li>
+                <li><p>Two thousand six hundrend is less than two thousand nine hundred.</p></li>
+              </ol>
+              </statement>
+           </task>
+
+           <task>
+            <statement>
+              <p>Use the symbol &lt; or &gt; to compare the following pairs of numbers.</p>
+              <ol>
+                <li><p>28 and 22</p></li>
+                <li><p>38 and 48</p> </li>
+                <li><p>46 and 39</p></li>
+                <li><p>106 and 601</p></li>
+              </ol>
+            </statement>
+           </task>
+
+           <task>
+              <statement>
+                <p>
+                There are x oranges in a bbasket.
+                The oranges are either 10 or more.
+                Write in symbols an inequality for the above statement.
+                </p>
+              </statement>
+           </task>
+          
+           <task>
+            <statement>
+              <p>
+                A hall can accomodate a maximum of 300 people.
+                Using letter <em>p</em> to represent the number of people, write an inequality statement.
+              </p>
+            </statement>
+           </task>
+          </exercise>
+
+
+    </subsection>
+      <subsection xml:id="subsec-Forming Simple Linear Inequalities in real Life Situations.">
+      <title>Forming Simple Linear Inequalities in real Life Situations.</title>
+      <activity>
+        <p>
+          Bag <em>A</em> conatins <em>x</em> mangoes.
+          Two mangoes are added to it. The total number of mangoes is 
+          either equal to or less than the number of mangoes in bag B,
+          which contains 30 mangoes.
+        </p>
+        <p><term>In Pairs</term></p>
+        <ol>
+          <li><p>Add 2 mangoes to <em>x</em></p></li>
+          <li><p>Compare the quantities <em>x+2</em> and <em>30.</em></p></li>
+          <li><p>Discuss and share your results.</p></li>
+        </ol>
+      </activity>
+
+      <example>
+        <p>
+          Jane had some oragnges, She gave Mwara <em>5</em> of them.
+          She was left with at most <em>12</em> of them.
+          Write an inequality to represent this statement.
+        </p>
+        <term>Solution.</term>
+        <p>Let the number of oranges be <em>x</em></p>
+        <p><em>x-5</em> is less than or equal to <em>12</em></p>
+        <p><em>x-5&gt;12.</em></p>
+      </example>
+
+      <exercise>
+        <title>Exercise 2.</title>
+        <task>
+              <li>
+                <p>
+                  Peace has <em>y</em>mangoes. Rachael has <em>32</em> more mangoes than Peace.
+                  If Rachel has less than <em>50</em>, form an inequality to represent the information.
+                </p>
+              </li>
+                <hint>
+              <p>
+                No hint for now.
+              </p>
+          </hint>
+          <answer>
+              <p>
+                No answer for now.
+              </p>
+          </answer>
+          <solution>
+            <p>
+              No Solution for now.
+            </p>
+          </solution>
+        </task>
+
+        <task>
+              <li>
+                <p>
+                  In a farm there are <em>y</em> banana trees. The number of oranges trees are <em>40</em>more than banana tress.
+                  If the number of orange trees is less than <em>150,</em> form an inequality for the statement.
+                </p>
+              </li>
+                <hint>
+              <p>
+                No hint for now.
+              </p>
+          </hint>
+          <answer>
+              <p>
+                No answer for now.
+              </p>
+          </answer>
+          <solution>
+            <p>
+              No Solution for now.
+            </p>
+          </solution>
+        </task>
+
+        <task>
+              <li>
+                <p>
+                  Rodgers earns <term>Kshs.</term><em>x</em>per month.
+                  Nancy earns <term>Kshs.</term> <em>2000</em> less than Rodgers,
+                  if Nancy earns more than <term>Kshs.</term> <em>10000,</em> form an inequality for the statement.
+                </p>
+              </li>
+                <hint>
+              <p>
+                No hint for now.
+              </p>
+          </hint>
+          <answer>
+              <p>
+                No answer for now.
+              </p>
+          </answer>
+          <solution>
+            <p>
+              No Solution for now.
+            </p>
+          </solution>
+        </task>
+
+        <task>
+          <statement>
+            <li>
+              <p>
+                Think of a number <em>y,</em> add 8 to the number, the sum is less than 20 form an inequality statement.
+              </p>
+            </li>>
+          </statement>
+            <hint>
+              <p>
+                No hint for now.
+              </p>
+          </hint>
+          <answer>
+              <p>
+                No answer for now.
+              </p>
+          </answer>
+          <solution>
+            <p>
+              No Solution for now.
+            </p>
+          </solution>
+        </task>
+
+        <task>
+          <statement>
+            <p>
+              In a game resserve, there are <em>y</em>lions.
+              The lions are <em>20</em>less than the leopards. If the toatal number of leopards and lions
+              is at least 60, form an inequality for the statement.
+            </p>
+          </statement>
+            <hint>
+              <p>
+                No hint for now.
+              </p>
+          </hint>
+          <answer>
+              <p>
+                No answer for now.
+              </p>
+          </answer>
+          <solution>
+            <p>
+              No Solution for now.
+            </p>
+          </solution>
+        </task>
+
+        <task>
+          <statement>
+            <p>
+              In a political gathering there were <em>t</em> women. The men were <em>400</em>
+              more than women. If there were <em>400</em> people in the gathering, form an inequality for the statement.
+            </p>
+          </statement>
+            <hint>
+              <p>
+                No hint for now.
+              </p>
+          </hint>
+          <answer>
+              <p>
+                No answer for now.
+              </p>
+          </answer>
+          <solution>
+            <p>
+              No Solution for now.
+            </p>
+          </solution>
+        </task>
+
+        <task>
+          <statement>
+            <p>
+              In a political gathering there were <em>t</em>. The men were <em>400</em>
+              more than women. If there were <em>1200</em> people in the gathering, forma an inequality for the statement.
+            </p>
+          </statement>
+            <hint>
+              <p>
+                No hint for now.
+              </p>
+          </hint>
+          <answer>
+              <p>
+                No answer for now.
+              </p>
+          </answer>
+          <solution>
+            <p>
+              No Solution for now.
+            </p>
+          </solution>
+        </task>
+
+        <task>
+          <statement>
+            <p>
+               Angela travels y km from home to school daily. Jane travels 3 km more than Angela. 
+               If the total distance they travel is at most 6 km, form an inequality to represent this information.
+            </p>
+          </statement>
+            <hint>
+              <p>
+                No hint for now.
+              </p>
+          </hint>
+          <answer>
+              <p>
+                No answer for now.
+              </p>
+          </answer>
+          <solution>
+            <p>
+              No Solution for now.
+            </p>
+          </solution>
+        </task>
+
+        <task>
+          <statement>
+            <p>
+              Odhiambo weighs n kg. Atieno is 6 kg lighter than Odhiambo. 
+              If their total weight is at least 120 kg, form an inequality to represent this information.
+            </p>
+          </statement>
+            <hint>
+              <p>
+                No hint for now.
+              </p>
+          </hint>
+          <answer>
+              <p>
+                No answer for now.
+              </p>
+          </answer>
+          <solution>
+            <p>
+              No Solution for now.
+            </p>
+          </solution>
+        </task>
+      </exercise>
+    </subsection>
+
+  <subsection xml:id="subsec-Illustrating simpe linear inequality on a number line">
+    <title>Illustrating simpe linear inequality on a number line</title>
+      <activity>
+        <term>Work in Groups.</term>
+          <ol>
+            <li><p>Consider <em>x &gt; 2.</em></p></li>
+            <li><p>Draw a number line.</p></li>
+            <li><p>Identify some of the numbers that satisfy the inequality.</p></li>
+            <li><p>Confirm whether the numbers are to the left or right of digit 2.</p></li>
+            <li><p>Circle digit 2.</p></li>
+            <li><p>From the circle, draw an arrow facing the direction with numbers which satisfy the inequality.</p></li>
+            <li><p>Discuss and share with others.</p></li>
+          </ol>
+      </activity>
+
+        <alert>
+            <ol>
+              <li><p>For inequalities with symbols &lt; or &gt;, the boundary digits are circled in the representations.</p></li>
+              <li><p>For innequalities with symbols <m>\le</m> or <m>\ge</m>, the circles are shaded.</p></li>
+            </ol>
+        </alert>
+    <example>
+      <title>Example 9.</title>
+        <p>Illustrate <em>x &gt; 2</em> on a number line</p>
+          <hint>
+                <p>
+                  No hint for now.
+                </p>
+            </hint>
+            <answer>
+                <p>
+                  No answer for now.
+                </p>
+            </answer>
+            <solution>
+              TODO add number line here
+            </solution>
+    </example>
+
+    <exercise>
+      <title>Exercise 3.</title>
+      <task>
+        <statement>
+          <p>Illustrate the following inequalities on a number line.</p>
+            <ol>
+              <li> <p>x &lt; 3</p> </li>
+                <li> <p>x &gt; 4 </p> </li>
+                <li> <p>x <m>\ge</m> 5</p> </li>
+              <li> <p>x <m>\le</m> 6</p> </li>
+            </ol>
+        </statement>
+      </task></exercise>
+  </subsection>
+
+    <subsection xml:id="subsec-Forming Compound Linear Inequality in one unkown.">
+      <title>Forming Compound Linear Inequality in one unkown.</title>
+        <activity>
+          <term>Work in Groups.</term>
+        </activity>
+      
+    </subsection>
+
 
 </section>
