@@ -20,7 +20,7 @@
                     <p>Mary's mass &lt; John's mass</p>
               </hint>
                 <image source="assets/images/sea-saw.png" width="50%">
-                  <shortdescription>Image showing Mary and John on the sea-saw.</shortdescription>
+                  <shortdescription>Mary and John on the sea-saw.</shortdescription>
                 </image>
             <li><p>6. Share your work with other learners in the class.</p></li>
           </ol>
@@ -46,11 +46,11 @@
 
           <example>
             <p>Use the symbols <em>greater than or less than</em>to compare the following pairs of numbers;</p>
-              <li><p>(a) 4 and 9</p> <p>(b) 16 and 11</p></li>
+              <li><p> 4 and 9</p></li> <li><p>16 and 11</p></li>
 
                 <p>Solution</p>
-              <p>(a) 4 is less than 9 which is written as 4 &lt; 9</p>
-            <p>(b) 16 is greater than 11 which is written as 16 &gt; 11</p>
+              <li><p>(a) 4 is less than 9 which is written as 4 &lt; 9</p></li>
+            <li><p>(b) 16 is greater than 11 which is written as 16 &gt; 11</p></li>
           </example>
 
           <example>
@@ -126,7 +126,7 @@
 
       <example>
         <p>
-          Jane had some oragnges, She gave Mwara <em>5</em> of them.
+          Jane had some oranges, She gave Mwara <em>5</em> of them.
           She was left with at most <em>12</em> of them.
           Write an inequality to represent this statement.
         </p>
