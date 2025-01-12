@@ -3,31 +3,32 @@
 <section xml:id="sec-Linear-inequalities" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Linear-inequalities</title>
 
-    <subsection xml:id="subsec-Inequality Symbols">
+    <subsection xml:id="subsec-Inequality_Symbols">
       <title>Applying Linear Inequality Symbols to Inequality Statements.</title>
+
           <activity>
-            <p><em>Work in Groups.</em></p>
-          <ol>
-            <li><p>You will need a sea- saw.</p></li>
-            <li><p>One learner to sit on one end of the sea-saw and another on the other end.</p></li>
-            <li><p>Find out who is heavier.</p></li>
-            <li><p>Find out who is lighter.</p></li>
-            <li><p>Repeat the information using the inequality symbols.</p></li>
+            <p><term>Work in Groups.</term></p>
+            <ol>
+              <li><p>You will need a seesaw.</p></li>
+              <li><p>One learner to sit on one end of the seesaw and another on the other end.</p></li>
+              <li><p>Find out who is heavier.</p></li>
+              <li><p>Find out who is lighter.</p></li>
+              <li><p>Repeat the information using the inequality symbols.</p></li>
+              <li><p>Share your work with other learners in the class.</p></li>
+            </ol>
+              <image source="assets/images/sea-saw.png" width="50%">
+                  <shortdescription>Mary and John on the seesaw.</shortdescription>
+              </image>
               <hint>
-                  <p>Assuming that John lifted Mary on the sea-saw, this can be written as:</p>
-                    <p>John's mass <m>\gt</m> Mary's mass</p>
-                      <p>or</p>
-                    <p>Mary's mass &lt; John's mass</p>
+                <p>Assuming that John lifted Mary on the seesaw, this can be written as:</p>
+                <p>John's mass <m>\gt</m> Mary's mass</p>
+                <p>Or, suppose that Mary lifted John on the seesaw, this can be written as:</p>
+                <p>Mary's mass <m>\lt</m> John's mass</p>
               </hint>
-                <image source="assets/images/sea-saw.png" width="50%">
-                  <shortdescription>Mary and John on the sea-saw.</shortdescription>
-                </image>
-            <li><p>6. Share your work with other learners in the class.</p></li>
-          </ol>
           </activity>
 
           <activity>
-            <p><em>Work in Groups.</em></p>
+            <p><term>Work in Groups.</term></p>
               <p>Read the story below and answer the questions that follow.</p>
                 <p>Harriet visited a nutritionist. She was advised not to take more than two eggs in a day.
                 She was also advised to be eating not less than three fruits in a day.</p>
@@ -45,22 +46,42 @@
           </activity>
 
           <example>
+            <title>Example 1</title>
             <p>Use the symbols <em>greater than or less than</em>to compare the following pairs of numbers;</p>
-              <li><p> 4 and 9</p></li> <li><p>16 and 11</p></li>
+              <ol>
+                <li>
+                  <li><p> 4 and 9</p></li>
+                </li>
+                <li>
+                  <p>
+                    <li><p>16 and 11</p></li>
+                  </p>
+                </li>
+              </ol>
 
-                <p>Solution</p>
-              <li><p>(a) 4 is less than 9 which is written as 4 &lt; 9</p></li>
-            <li><p>(b) 16 is greater than 11 which is written as 16 &gt; 11</p></li>
+                <solution>
+                  <ol>
+                    <li><p>4 is less than 9 which is written as 4 &lt; 9</p></li>
+                    <li><p>16 is greater than 11 which is written as 16 &gt; 11</p></li>
+                  </ol>
+                </solution>
           </example>
 
           <example>
-            <p>In a village each family has atleast seven goats. Using letter <em>g</em>to represent goatsx, written an inequality to represent the statement given.</p>
-              <p>Solution.</p>
-            <p>g &gt; 7</p>
+            <title>Example 2</title>
+            <p>In a village each family has atleast seven goats. Using letter <em>g</em> to represent goats, write an inequality to represent the statement given.</p>
+              <solution>
+                <p>
+                  Each family should have more than 7 goats, therefore the inequality should be represented as;
+                </p>
+                <p>
+                  <p>g &gt; 7</p>
+                </p>
+              </solution>
           </example>
 
           <exercise>
-            <title>Exercise 1.</title>
+            <title>Exercise 1</title>
            <task>
             <statement>
               <p>Write the following sentences using symbols.</p>
@@ -104,322 +125,492 @@
             </statement>
            </task>
           </exercise>
-
-
     </subsection>
-      <subsection xml:id="subsec-Forming Simple Linear Inequalities in real Life Situations.">
+
+    <subsection xml:id="subsec-Forming_Simple_Linear_Inequalities_in_real_Life_Situations">
       <title>Forming Simple Linear Inequalities in real Life Situations.</title>
-      <activity>
-        <p>
-          Bag <em>A</em> conatins <em>x</em> mangoes.
-          Two mangoes are added to it. The total number of mangoes is 
-          either equal to or less than the number of mangoes in bag B,
-          which contains 30 mangoes.
-        </p>
-        <p><term>In Pairs</term></p>
-        <ol>
-          <li><p>Add 2 mangoes to <em>x</em></p></li>
-          <li><p>Compare the quantities <em>x+2</em> and <em>30.</em></p></li>
-          <li><p>Discuss and share your results.</p></li>
-        </ol>
-      </activity>
 
-      <example>
-        <p>
-          Jane had some oranges, She gave Mwara <em>5</em> of them.
-          She was left with at most <em>12</em> of them.
-          Write an inequality to represent this statement.
-        </p>
-        <term>Solution.</term>
-        <p>Let the number of oranges be <em>x</em></p>
-        <p><em>x-5</em> is less than or equal to <em>12</em></p>
-        <p><em>x-5&gt;12.</em></p>
-      </example>
-
-      <exercise>
-        <title>Exercise 2.</title>
-        <task>
-              <li>
-                <p>
-                  Peace has <em>y</em>mangoes. Rachael has <em>32</em> more mangoes than Peace.
-                  If Rachel has less than <em>50</em>, form an inequality to represent the information.
-                </p>
-              </li>
-                <hint>
-              <p>
-                No hint for now.
-              </p>
-          </hint>
-          <answer>
-              <p>
-                No answer for now.
-              </p>
-          </answer>
-          <solution>
+          <activity>
+            <title><term>Work in Groups.</term></title>
             <p>
-              No Solution for now.
+              Bag <term>A</term> conatins <em>x</em> mangoes.
+              Two mangoes are added to it. The total number of mangoes is 
+              either equal to or less than the number of mangoes in bag B,
+              which contains 30 mangoes.
             </p>
-          </solution>
-        </task>
-
-        <task>
-              <li>
-                <p>
-                  In a farm there are <em>y</em> banana trees. The number of oranges trees are <em>40</em>more than banana tress.
-                  If the number of orange trees is less than <em>150,</em> form an inequality for the statement.
-                </p>
-              </li>
-                <hint>
-              <p>
-                No hint for now.
-              </p>
-          </hint>
-          <answer>
-              <p>
-                No answer for now.
-              </p>
-          </answer>
-          <solution>
-            <p>
-              No Solution for now.
-            </p>
-          </solution>
-        </task>
-
-        <task>
-              <li>
-                <p>
-                  Rodgers earns <term>Kshs.</term><em>x</em>per month.
-                  Nancy earns <term>Kshs.</term> <em>2000</em> less than Rodgers,
-                  if Nancy earns more than <term>Kshs.</term> <em>10000,</em> form an inequality for the statement.
-                </p>
-              </li>
-                <hint>
-              <p>
-                No hint for now.
-              </p>
-          </hint>
-          <answer>
-              <p>
-                No answer for now.
-              </p>
-          </answer>
-          <solution>
-            <p>
-              No Solution for now.
-            </p>
-          </solution>
-        </task>
-
-        <task>
-          <statement>
-            <li>
-              <p>
-                Think of a number <em>y,</em> add 8 to the number, the sum is less than 20 form an inequality statement.
-              </p>
-            </li>>
-          </statement>
-            <hint>
-              <p>
-                No hint for now.
-              </p>
-          </hint>
-          <answer>
-              <p>
-                No answer for now.
-              </p>
-          </answer>
-          <solution>
-            <p>
-              No Solution for now.
-            </p>
-          </solution>
-        </task>
-
-        <task>
-          <statement>
-            <p>
-              In a game resserve, there are <em>y</em>lions.
-              The lions are <em>20</em>less than the leopards. If the toatal number of leopards and lions
-              is at least 60, form an inequality for the statement.
-            </p>
-          </statement>
-            <hint>
-              <p>
-                No hint for now.
-              </p>
-          </hint>
-          <answer>
-              <p>
-                No answer for now.
-              </p>
-          </answer>
-          <solution>
-            <p>
-              No Solution for now.
-            </p>
-          </solution>
-        </task>
-
-        <task>
-          <statement>
-            <p>
-              In a political gathering there were <em>t</em> women. The men were <em>400</em>
-              more than women. If there were <em>400</em> people in the gathering, form an inequality for the statement.
-            </p>
-          </statement>
-            <hint>
-              <p>
-                No hint for now.
-              </p>
-          </hint>
-          <answer>
-              <p>
-                No answer for now.
-              </p>
-          </answer>
-          <solution>
-            <p>
-              No Solution for now.
-            </p>
-          </solution>
-        </task>
-
-        <task>
-          <statement>
-            <p>
-              In a political gathering there were <em>t</em>. The men were <em>400</em>
-              more than women. If there were <em>1200</em> people in the gathering, forma an inequality for the statement.
-            </p>
-          </statement>
-            <hint>
-              <p>
-                No hint for now.
-              </p>
-          </hint>
-          <answer>
-              <p>
-                No answer for now.
-              </p>
-          </answer>
-          <solution>
-            <p>
-              No Solution for now.
-            </p>
-          </solution>
-        </task>
-
-        <task>
-          <statement>
-            <p>
-               Angela travels y km from home to school daily. Jane travels 3 km more than Angela. 
-               If the total distance they travel is at most 6 km, form an inequality to represent this information.
-            </p>
-          </statement>
-            <hint>
-              <p>
-                No hint for now.
-              </p>
-          </hint>
-          <answer>
-              <p>
-                No answer for now.
-              </p>
-          </answer>
-          <solution>
-            <p>
-              No Solution for now.
-            </p>
-          </solution>
-        </task>
-
-        <task>
-          <statement>
-            <p>
-              Odhiambo weighs n kg. Atieno is 6 kg lighter than Odhiambo. 
-              If their total weight is at least 120 kg, form an inequality to represent this information.
-            </p>
-          </statement>
-            <hint>
-              <p>
-                No hint for now.
-              </p>
-          </hint>
-          <answer>
-              <p>
-                No answer for now.
-              </p>
-          </answer>
-          <solution>
-            <p>
-              No Solution for now.
-            </p>
-          </solution>
-        </task>
-      </exercise>
-    </subsection>
-
-  <subsection xml:id="subsec-Illustrating simpe linear inequality on a number line">
-    <title>Illustrating simpe linear inequality on a number line</title>
-      <activity>
-        <term>Work in Groups.</term>
-          <ol>
-            <li><p>Consider <em>x &gt; 2.</em></p></li>
-            <li><p>Draw a number line.</p></li>
-            <li><p>Identify some of the numbers that satisfy the inequality.</p></li>
-            <li><p>Confirm whether the numbers are to the left or right of digit 2.</p></li>
-            <li><p>Circle digit 2.</p></li>
-            <li><p>From the circle, draw an arrow facing the direction with numbers which satisfy the inequality.</p></li>
-            <li><p>Discuss and share with others.</p></li>
-          </ol>
-      </activity>
-
-        <alert>
+            <p><term>In Pairs</term></p>
             <ol>
-              <li><p>For inequalities with symbols &lt; or &gt;, the boundary digits are circled in the representations.</p></li>
-              <li><p>For innequalities with symbols <m>\le</m> or <m>\ge</m>, the circles are shaded.</p></li>
+              <li><p>Add 2 mangoes to <em>x</em></p></li>
+              <li><p>Compare the quantities <em>x+2</em> and <em>30.</em></p></li>
+              <li><p>Discuss and share your results.</p></li>
             </ol>
-        </alert>
-    <example>
-      <title>Example 9.</title>
-        <p>Illustrate <em>x &gt; 2</em> on a number line</p>
-          <hint>
-                <p>
-                  No hint for now.
-                </p>
-            </hint>
-            <answer>
-                <p>
-                  No answer for now.
-                </p>
-            </answer>
+          </activity>
+
+          <example>
+            <p>
+              Jane had some oranges, She gave Mwara <em>5</em> of them.
+              She was left with at most <em>12</em> of them.
+              Write an inequality to represent this statement.
+            </p>
+
             <solution>
-              TODO add number line here
+              <p>Let the number of oranges be <em>x</em></p>
+              <p><em>x - 5</em> is less than or equal to <em>12</em></p>
+              <p><em>x - 5 &gt; 12.</em></p>
             </solution>
-    </example>
+          </example>
 
-    <exercise>
-      <title>Exercise 3.</title>
-      <task>
-        <statement>
-          <p>Illustrate the following inequalities on a number line.</p>
-            <ol>
-              <li> <p>x &lt; 3</p> </li>
-                <li> <p>x &gt; 4 </p> </li>
-                <li> <p>x <m>\ge</m> 5</p> </li>
-              <li> <p>x <m>\le</m> 6</p> </li>
-            </ol>
-        </statement>
-      </task></exercise>
-  </subsection>
+          <exercise>
+            <title>Exercise 2</title>
+            <task>
+                  <li>
+                    <p>
+                      Peace has <em>y</em>mangoes. Rachael has <em>32</em> more mangoes than Peace.
+                      If Rachel has less than <em>50</em>, form an inequality to represent the information.
+                    </p>
+                  </li>
+            </task>
 
-    <subsection xml:id="subsec-Forming Compound Linear Inequality in one unkown.">
-      <title>Forming Compound Linear Inequality in one unkown.</title>
-        <activity>
-          <term>Work in Groups.</term>
-        </activity>
-      
+            <task>
+                  <li>
+                    <p>
+                      In a farm there are <em>y</em> banana trees. The number of oranges trees are <em>40</em> more than banana tress.
+                      If the number of orange trees is less than <em>150,</em> form an inequality for the statement.
+                    </p>
+                  </li>
+            </task>
+
+            <task>
+                  <li>
+                    <p>
+                      Rodgers earns <term>Kshs.</term> <em>x</em> per month.
+                      Nancy earns <term>Kshs.</term> 2000 less than Rodgers,
+                      if Nancy earns more than <term>Kshs.</term> <em>10000,</em> form an inequality for the statement.
+                    </p>
+                  </li>
+            </task>
+
+            <task>
+              <statement>
+                <li>
+                  <p>
+                    Think of a number <em>y,</em> add 8 to the number, the sum is less than 20 form an inequality statement.
+                  </p>
+                </li>
+              </statement>
+            </task>
+
+            <task>
+              <statement>
+                <p>
+                  In a game resserve, there are <em>y</em> lions.
+                  The lions are <em>20</em> less than the leopards. If the toatal number of leopards and lions
+                  is at least 60, form an inequality for the statement.
+                </p>
+              </statement>
+            </task>
+
+            <task>
+              <statement>
+                <p>
+                  In a political gathering there were <em>t</em> women. The men were <em>400</em>
+                  more than women. If there were <em>400</em> people in the gathering, form an inequality for the statement.
+                </p>
+              </statement>
+            </task>
+
+            <task>
+              <statement>
+                <p>
+                  Angela travels y km from home to school daily. Jane travels 3 km more than Angela. 
+                  If the total distance they travel is at most 6 km, form an inequality to represent this information.
+                </p>
+              </statement>
+            </task>
+
+            <task>
+              <statement>
+                <p>
+                  Odhiambo weighs n kg. Atieno is 6 kg lighter than Odhiambo. 
+                  If their total weight is at least 120 kg, form an inequality to represent this information.
+                </p>
+              </statement>
+            </task>
+          </exercise>
     </subsection>
 
+    <subsection xml:id="subsec-Illustrating_simpe_linear_inequality_on_a_number_line">
+      <title>Illustrating simpe linear inequality on a number line</title>
 
+          <activity>
+            <term>Work in Groups.</term>
+              <ol>
+                <li><p>Consider <em>x &gt; 2.</em></p></li>
+                <li><p>Draw a number line.</p></li>
+                <li><p>Identify some of the numbers that satisfy the inequality.</p></li>
+                <li><p>Confirm whether the numbers are to the left or right of digit 2.</p></li>
+                <li><p>Circle digit 2.</p></li>
+                <li><p>From the circle, draw an arrow facing the direction with numbers which satisfy the inequality.</p></li>
+                <li><p>Discuss and share with others.</p></li>
+              </ol>
+          </activity>
+
+            <alert><term>Learning Point.</term></alert>
+            <alert>
+                <ol>
+                  <li><p>For inequalities with symbols &lt; or &gt;, the boundary digits are circled in the representations.</p></li>
+                  <li><p>For innequalities with symbols <m>\le</m> or <m>\ge</m>, the circles are shaded.</p></li>
+                </ol>
+            </alert>
+
+          <example>
+            <title>Example 4</title>
+              <p>Illustrate <em>x &gt; 2</em> on a number line</p>
+                <hint>
+                      <p>
+                        For greater than dont shade.
+                      </p>
+                </hint>
+                  <solution>
+                    <p>
+                      Circle at digit 2 and draw a line pointing towards numbers greater than 2.
+                    </p>
+                    <p>
+                      TODO add number line here
+                    </p>
+                  </solution>
+          </example>
+
+          <example>
+            <title>Example 5</title>
+              <p>Illustrate <em>x <m>\ge</m> 8</em> on a number line</p>
+                <hint>
+                      <p>
+                       Shading required here.
+                      </p>
+                  </hint>
+                  <solution>
+                    <p>
+                       Draw a circle at digit 8 and shade it then draw a line towards digits greater than 8.
+                    </p>
+                    <p>
+                    TODO add number line here
+                    </p>
+                  </solution>
+          </example>
+
+          <exercise>
+            <title>Exercise 3</title>
+            <task>
+              <statement>
+                <p>Illustrate the following inequalities on a number line.</p>
+                  <ol>
+                    <li> <p>x &lt; 3</p> </li>
+                      <li> <p>x &gt; 4 </p> </li>
+                      <li> <p>x <m>\ge</m> 5</p> </li>
+                    <li> <p>x <m>\le</m> 6</p> </li>
+                  </ol>
+              </statement>
+            </task>
+          </exercise>
+    </subsection>
+
+    <subsection xml:id="subsec-Forming_Compound_Linear_Inequality_in_one_unkown">
+      <title>Forming Compound Linear Inequality in one unkown.</title>
+
+          <activity>
+              <term>Work in Groups.</term>
+                <ol>
+                    <li><p>Consider x &gt; 1 and x &lt; 6.</p></li>
+                        <li> <p>Make 6 paper cut-outs and write on each cut-out numbers 1 to 6.</p></li>
+                          <li><p>Arrange the numbers on the cut-outs in an ascending order.</p></li>
+                          <li><p>Shade the cutouts that satisfy x &gt; 1.</p></li>
+                        <li><p>Using the same cut-outs, shade the cut-outs that satisfy x &lt; 6.</p> </li>
+                     <li><p>List down the numbers that satisfy x &gt; 1 and x &lt; 6.</p></li>
+                </ol>
+          </activity>
+
+              <warning>
+                <term>Learning Point.</term>
+                    <p>
+                      Two simple inequalities when combined form a compound inequality.
+                    </p>
+              </warning>
+          
+          <example>
+            <title>Example 6</title>
+              <p>Form a compound inequality for x &lt; 8 and x &gt; 2.</p>
+                <solution>
+                  <p>x &gt; 2 is the same as 2 &lt; x</p>
+                    <p>Combining 2 &lt; x and x &lt; 8 gives the compound inequality 2 &lt; x &lt; 8.</p>
+                </solution>
+          </example>
+
+          <example>
+            <title>Example 7</title>
+              <p>
+                Form a compound inequality for y <m>\ge</m> 3 and y <m>\le</m> 12.
+              </p>
+              <solution>
+                <p>
+                  y <m>\ge</m> 3 is the same as 3 <m>\le</m> y.
+                </p>
+                <p>
+                  Combining 3 <m>\le</m> y and y <m>\le</m> 12.
+                </p>
+                <p>
+                  Gives the compound inequality 3 <m>\le</m> y <m>\le</m> 12.
+                </p>
+              </solution>
+          </example>
+
+          <exercise>
+            <title>Exercise 4</title>
+              <ol>
+                <li>
+                  <p>
+                    A learner picked P fruits from a basket. 
+                    The fruits to be picked are more than 8 but less than 14. 
+                    Write an inequality statement for the information.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Kaluma has x guavas which are at least 12 but not more than 20. 
+                    Form a compound inequality.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    The number of girls in a class is x. 
+                    If the number of girls is more than 15 and less than 32, 
+                    form a compound inequality for the information.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    There are x students in a class. 
+                    The students are at least 20 and at most 35. 
+                    Form a compound inequality to represent this information. 
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    There are x students in a class. 
+                    The students are at least 20 and at most 35. 
+                    Form a compound inequality to represent this information. 
+                  </p>
+                </li>
+              </ol>
+          </exercise>
+    </subsection>
+
+    <subsection xml:id="subsec-Illustrating_compound_inequalities_on_a_number_line">
+      <title>Illustrating compound inequalities on a number line</title>
+
+          <activity>
+              <title><term>Work in Groups</term></title>
+                <ol>
+                  <li>
+                    <p>
+                      Consider 5&lt;x&lt;12.
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      Write down the two simple inequalities from the compound inequality.
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      Draw a number line.
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      Illustrate the two inequalities on the same number line.
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      Discuss and share with other groups.
+                    </p>
+                  </li>
+                </ol>
+          </activity>
+
+            <fact xml:id="fact-Learning_point">
+              <statement>
+                <p>
+                  Part of a number line that satisfies two linear inequalities is the illustration of a given compound inequality.
+                </p>
+              </statement>
+            </fact>
+
+          <example>
+            <title>Example 8</title>
+              <p>
+                Illustrate the compound inequality 4 &lt; y &lt; 8 on a number line.
+              </p>
+            <solution>
+              <p>
+                4 &lt; y &lt; 8 can also be written as y &gt; 4 and y &lt; 8
+              </p>
+              <image>
+                <shortdescription>Number line</shortdescription>
+                  <latex-image>
+                  \begin{tikzpicture}
+                    \draw(0, 0)--(11.5,0);
+                      \foreach \x in {0,...,11}{
+                        \draw(\x,.25)--(\x,.25) node[below]{\x}
+                      }
+                    \draw(\x, .25)--(\x,-.25) node [below] {\x};
+                        \draw[very thick, -&gt;] (5.2, .5)--(11.1, .5); \draw[very thick] (5,.5) circle(5pt);
+                  \end{tikzpicture}
+                  </latex-image>
+              </image>
+            </solution>
+          </example>
+
+          <exercise>
+            <title>Exercise 5</title>
+              <ol>
+                <li>
+                  <p>
+                    Illustrate the following compound inequalities on a number line.
+                  </p>
+                  <ol>
+                    <li>
+                      <p>
+                        2 &lt; x &lt; 5
+                      </p>
+                    </li>
+                    <li>
+                      <p>
+                        4 &lt; x &lt; 9
+                      </p>
+                    </li>
+                    <li>
+                      <p>
+                        3 &lt; y &lt; 10
+                      </p>
+                    </li>
+                    <li>
+                      <p>
+                        11 &gt; y &gt; 6
+                      </p>
+                    </li>
+                    <li>
+                      <p>
+                        15 &gt; x &gt; 5
+                      </p>
+                    </li>
+                  </ol>
+                </li>
+                <li>
+                  <p>
+                    A weather chart is showing that the lowest temperature 
+                    in Nairobi on some day was above 22°C and the highest temperature 
+                    on the same day was less than 28°C.
+                    Illustrate the information on a number line.
+                  </p>
+                </li>
+              </ol>
+          </exercise>
+
+          <activity>
+            <title><term>Work in Groups</term></title>
+            <ol>
+              <li>
+                <p>
+                  Consider 3 ≤ x ≤9.
+                </p>
+              </li>
+              <li>
+                <p>
+                  Write down the two simple inequalities from the compound inequality.
+                </p>
+              </li>
+              <li>
+                <p>
+                  Draw a number line.
+                </p>
+              </li>
+              <li>
+                <p>
+                  Illustrate the two inequalities on the same number line.
+                </p>
+              </li>
+              <li>
+                <p>
+                  Discuss and share with other groups.
+                </p>
+              </li>
+            </ol>
+          </activity>
+
+          <alert>Learning Point.</alert>
+          <alert><p>Part of a number line that satisfies two linear inequalities in the illustration of a given compound inequality.</p></alert>
+
+          <example>
+            <title>Example 9</title>
+            <p>
+              Illustrate the compound inequality 8 <m>\le</m> x <m>le</m> 12 on a number line.
+            </p>
+            <solution>
+              <p>
+              In 8 <m>\le</m> x <m>\le</m> 12, x <m>\ge</m> 8 and x <m>\le</m> 12
+            </p>
+            <p>
+              TODO add number line here.
+            </p>
+            </solution>
+          </example>
+
+          <exercise>
+            <title>Exercise 6</title>
+              <ol>
+                <li>
+                  <p>
+                    Illustrate each the following compound inequalities on a number line.
+                  </p>
+                  <ol>
+                    <li>
+                      <p>
+                        5 <m>\le</m> x <m>\le</m> 8
+                      </p>
+                    </li>
+                    <li>
+                      <p>
+                        6 <m>\le</m> x <m>\le</m> 12
+                      </p>
+                    </li>
+                    <li>
+                      <p>
+                        1 <m>\le</m> y <m>\le</m> 7
+                      </p>
+                    </li>
+                    <li>
+                      <p>
+                        8 <m>\le</m> y &lt; 14
+                      </p>
+                    </li>
+                    <li>
+                      <p>
+                        9 &lt; x &lt; 13
+                      </p>
+                    </li>
+                  </ol>
+                </li>
+                <li>
+                  <p>
+                    A health chart shows that a healthy breakfast cereal contains 
+                    at least 3 grams of fibre and not more than 5 grams per serving. 
+                    Illustrate the information on a number line.
+                  </p>
+                </li>
+              </ol>
+            
+          </exercise>
+    </subsection>
 </section>
