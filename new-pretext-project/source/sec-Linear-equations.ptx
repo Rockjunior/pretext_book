@@ -3,6 +3,36 @@
 <section xml:id="sec-Linear-equations" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Linear-equations</title>
 
-  <p> Text of section. </p>
+      <subsection xml:id="subsec-Forming_Equations_in_one_Unknown">
+        <title>Forming Equations in One Unknown</title>
+            <task>
+              <title><term>Working in Groups</term></title>
+              <statement>
+               <ol>
+                <li>
+                  <p>
+                    Place a weight measure of <m>3 kg </m> on one side of weight measure of <m>1 kg </m> on the other side.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Gradually add a mass to the 1 kg mass until the beam balances.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Represent the added mass with a letter and relate the weights on the two sides of the beam balance.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Discuss and share with other groups.
+                  </p>
+                </li>
+               </ol>
+              </statement>
+            </task>
+        
+      </subsection>
 
 </section>
