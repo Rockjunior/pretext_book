@@ -5,10 +5,9 @@
 
       <subsection xml:id="subsec-Forming_Equations_in_one_Unknown">
         <title>Forming Equations in One Unknown</title>
-            <task>
-              <title><term>Working in Groups</term></title>
-              <statement>
-               <ol>
+            <activity>
+              <p>
+                <ol>
                 <li>
                   <p>
                     Place a weight measure of <m>3 kg </m> on one side of weight measure of <m>1 kg </m> on the other side.
@@ -30,8 +29,8 @@
                   </p>
                 </li>
                </ol>
-              </statement>
-            </task>
+              </p>
+            </activity>
         
       </subsection>
 
