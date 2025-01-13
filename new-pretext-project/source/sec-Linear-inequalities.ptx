@@ -16,9 +16,11 @@
               <li><p>Repeat the information using the inequality symbols.</p></li>
               <li><p>Share your work with other learners in the class.</p></li>
             </ol>
+            
               <image source="assets/images/sea-saw.png" width="50%">
                   <shortdescription>Mary and John on the seesaw.</shortdescription>
               </image>
+
               <hint>
                 <p>Assuming that John lifted Mary on the seesaw, this can be written as:</p>
                 <p>John's mass <m>\gt</m> Mary's mass</p>
