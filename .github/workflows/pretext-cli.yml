@@ -10,7 +10,7 @@ on:
     push:
         branches: ["main"]
     # Runs on demand
-    workflow_dispatch:
+    workflow_dispatch:kp
 
 jobs:
     build:
