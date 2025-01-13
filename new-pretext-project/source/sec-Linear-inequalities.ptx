@@ -3,7 +3,7 @@
 <section xml:id="sec-Linear-inequalities" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Linear-inequalities</title>
 
-    <subsection xml:id="subsec-Inequality_Symbols">
+    <subsection xml:id="subsec-Applying_Linear_Inequality_Symbols_to_inequality_statements">
       <title>Applying Linear Inequality Symbols to Inequality Statements.</title>
 
           <activity>
@@ -39,7 +39,7 @@
 
           <example>
             <statement>
-              <p>Use the symbols <em>greater than or less than</em>to compare the following pairs of numbers;</p>
+              <p>Use the symbols <m>greater than or less than</m>to compare the following pairs of numbers;</p>
               <p>
                 <ol marker="a)" cols="2">
                   <li>
@@ -59,8 +59,8 @@
                 <solution>
                   <p>
                     <ol>
-                      <li><p>4 is less than 9 which is written as 4 &lt; 9</p></li>
-                      <li><p>16 is greater than 11 which is written as 16 &gt; 11</p></li>
+                      <li><p><m>4</m> is less than 9 which is written as <m>4 &lt; 9</m></p></li>
+                      <li><p><m>16</m> is greater than 11 which is written as <m>16 &gt; 11</m></p></li>
                     </ol>
                   </p>
                 </solution>
@@ -68,11 +68,12 @@
 
           <example>
             <statement>
-              <p>In a village each family has atleast seven goats. Using letter <em>g</em> to represent goats, write an inequality to represent the statement given.</p>
+              <p>In a village each family has atleast seven goats. Using letter <m>g</m> to represent goats, write an inequality to represent the statement given.</p>
             </statement>
+
               <solution>
                 <p>
-                  Each family should have more than 7 goats, therefore the inequality should be represented as;
+                  Each family should have more than <m>7</m> goats, therefore the inequality should be represented as;
                 </p>
                 <p>
                   <m>g &gt; 7</m>
@@ -87,8 +88,20 @@
           </exercise>
     </subsection>
 
-    <subsection xml:id="subsec-Illustrating_simpe_linear_inequality_on_a_number_line">
-      <title>Illustrating simpe linear inequality on a number line</title>
+    <subsection xml:id="subsec-Forming_a_Simple_Linear_Inequalities_in_Real_Life_Situatuans">
+      <title>Forming a Simple Linear Inequalities in Real Life Situatuans</title>
+      <activity>
+        <title><term>Work in Groups</term></title>
+          <p>
+            
+          </p>
+        
+      </activity>
+      
+    </subsection>
+
+    <subsection xml:id="subsec-Illustrating_simple_linear_inequality_on_a_number_line">
+      <title>Illustrating simple linear inequality on a number line</title>
 
           <activity>
             <p>
@@ -111,12 +124,12 @@
           <example>
 
               <statement>
-                <p>Illustrate <em>x &gt; 2</em> on a number line</p>
+                <p>Illustrate <m>x &gt; 2</m> on a number line</p>
               </statement>
 
                   <solution>
                     <p>
-                      Circle at digit 2 and draw a line pointing towards numbers greater than 2.
+                      Circle at digit <m>2</m> and draw a line pointing towards numbers greater than <m>2</m>.
                     </p>
                     <p>
                       TODO add number line here
@@ -126,12 +139,12 @@
 
           <example>
               <statement>
-                  <p>Illustrate <em>x <m>\ge</m> 8</em> on a number line</p>
+                  <p>Illustrate <m>x \ge 8</m> on a number line</p>
               </statement>
                   
                   <solution>
                     <p>
-                       Draw a circle at digit 8 and shade it then draw a line towards digits greater than 8.
+                       Draw a circle at digit <m>8</m> and shade it then draw a line towards digits greater than <m>8</m>.
                     </p>
                     <p>
                     TODO add number line here
@@ -155,37 +168,27 @@
               </p>
                 <p>
                   <ol>
-                    <li><p>Consider x &gt; 1 and x &lt; 6.</p></li>
-                        <li> <p>Make 6 paper cut-outs and write on each cut-out numbers 1 to 6.</p></li>
+                    <li><p>Consider <m>x &gt; 1</m> and <m>x &lt; 6.</m></p></li>
+                        <li> <p>Make <m>6</m> paper cut-outs and write on each cut-out numbers <m>1</m> to <m>6</m>.</p></li>
                           <li><p>Arrange the numbers on the cut-outs in an ascending order.</p></li>
-                          <li><p>Shade the cutouts that satisfy x &gt; 1.</p></li>
-                        <li><p>Using the same cut-outs, shade the cut-outs that satisfy x &lt; 6.</p> </li>
-                     <li><p>List down the numbers that satisfy x &gt; 1 and x &lt; 6.</p></li>
+                          <li><p>Shade the cutouts that satisfy <m>x &gt; 1</m>.</p></li>
+                        <li><p>Using the same cut-outs, shade the cut-outs that satisfy <m>x &lt; 6</m>.</p> </li>
+                     <li><p>List down the numbers that satisfy <m>x &gt; 1</m> and x &lt; 6.</p></li>
                 </ol>
                 </p>
           </activity>
-
-              <warning>
-                <p>
-                  <term>Learning Point.</term>
-                </p>
-
-                    <p>
-                      Two simple inequalities when combined form a compound inequality.
-                    </p>
-              </warning>
           
           <example>
 
               <statement>
                 <p>
-                  Form a compound inequality for x &lt; 8 and x &gt; 2.
+                  Form a compound inequality for <m>x &lt; 8 and x &gt; 2</m>.
                 </p>
               </statement>
 
                 <solution>
-                  <p>x &gt; 2 is the same as 2 &lt; x</p>
-                    <p>Combining 2 &lt; x and x &lt; 8 gives the compound inequality 2 &lt; x &lt; 8.</p>
+                  <p><m>x &gt; 2</m> is the same as <m>2 &lt; x</m></p>
+                    <p>Combining <m>2 &lt; x</m> and <m>x &lt; 8</m> gives the compound inequality <m>2 &lt; x &lt; 8</m>.</p>
                 </solution>
           </example>
 
@@ -193,16 +196,16 @@
 
             <statement>
               <p>
-                Form a compound inequality for y <m>\ge</m> 3 and y <m>\le</m> 12.
+                Form a compound inequality for <m>y \ge 3</m> and <m>y \le 12.</m>
               </p>
             </statement>
 
               <solution>
                   <p>
-                    y <m>\ge</m> 3 is the same as 3 <m>\le</m> y.
+                    <m>y \ge 3</m> is the same as <m> 3\le y</m>.
                   </p>
                   <p>
-                    Combining 3 <m>\le</m> y and y <m>\le</m> 12.
+                    Combining 3 <m>\le</m> y and <m>y \le 12</m>.
                   </p>
                   <p>
                     Gives the compound inequality 3 <m>\le</m> y <m>\le</m> 12.
@@ -211,43 +214,11 @@
           </example>
 
           <exercise>
-            <title>Exercise 4</title>
-              <ol>
-                <li>
-                  <p>
-                    A learner picked P fruits from a basket. 
-                    The fruits to be picked are more than 8 but less than 14. 
-                    Write an inequality statement for the information.
-                  </p>
-                </li>
-                <li>
-                  <p>
-                    Kaluma has x guavas which are at least 12 but not more than 20. 
-                    Form a compound inequality.
-                  </p>
-                </li>
-                <li>
-                  <p>
-                    The number of girls in a class is x. 
-                    If the number of girls is more than 15 and less than 32, 
-                    form a compound inequality for the information.
-                  </p>
-                </li>
-                <li>
-                  <p>
-                    There are x students in a class. 
-                    The students are at least 20 and at most 35. 
-                    Form a compound inequality to represent this information. 
-                  </p>
-                </li>
-                <li>
-                  <p>
-                    There are x students in a class. 
-                    The students are at least 20 and at most 35. 
-                    Form a compound inequality to represent this information. 
-                  </p>
-                </li>
-              </ol>
+            <statement>
+              <p>
+                Exercise here.
+              </p>
+            </statement>
           </exercise>
     </subsection>
 
@@ -260,7 +231,7 @@
                     <ol>
                   <li>
                     <p>
-                      Consider 5&lt;x&lt;12.
+                      Consider <m>5&lt;x&lt;12.</m>
                     </p>
                   </li>
                   <li>
@@ -287,25 +258,17 @@
                 </p>
           </activity>
 
-            <fact xml:id="fact-Learning_point">
-              <statement>
-                <p>
-                  Part of a number line that satisfies two linear inequalities is the illustration of a given compound inequality.
-                </p>
-              </statement>
-            </fact>
-
           <example>
 
             <statement>
               <p>
-                Illustrate the compound inequality 4 &lt; y &lt; 8 on a number line.
+                Illustrate the compound inequality <m>4 &lt; y &lt; 8</m> on a number line.
               </p>
             </statement>
 
             <solution>
               <p>
-                4 &lt; y &lt; 8 can also be written as y &gt; 4 and y &lt; 8
+                <m>4 &lt; y &lt; 8</m> can also be written as <m>y &gt; 4</m> and <m>y &lt; 8</m>
               </p>
 
             <image>
@@ -337,7 +300,7 @@
                   <ol>
               <li>
                 <p>
-                  Consider 3 ≤ x ≤9.
+                  Consider <m>3 \le x \le 9</m>.
                 </p>
               </li>
               <li>
@@ -367,13 +330,13 @@
           <example>
             <statement>
               <p>
-                Illustrate the compound inequality 8 <m>\le</m> x <m>le</m> 12 on a number line.
+                Illustrate the compound inequality <m>8 \le x le 12</m> on a number line.
               </p>
             </statement>
 
             <solution>
                 <p>
-                  In 8 <m>\le</m> x <m>\le</m> 12, x <m>\ge</m> 8 and x <m>\le</m> 12
+                  In <m>8 \le x \le 12, x \ge 8</m> and <m>x \le 12</m>
                 </p>
               <p>
                 TODO add number line here.
@@ -382,57 +345,11 @@
           </example>
 
           <exercise>
-            <title>Exercise 6</title>
-              <ol>
-                <li>
-                  <p>
-                    Illustrate each the following compound inequalities on a number line.
-                  </p>
-                  <p>
-                      <ol>
-
-                        <li>
-                          <p>
-                            5 <m>\le</m> x <m>\le</m> 8
-                          </p>
-                        </li>
-
-                        <li>
-                          <p>
-                            6 <m>\le</m> x <m>\le</m> 12
-                          </p>
-                        </li>
-
-                        <li>
-                          <p>
-                            1 <m>\le</m> y <m>\le</m> 7
-                          </p>
-                        </li>
-                        
-                        <li>
-                          <p>
-                            8 <m>\le</m> y &lt; 14
-                          </p>
-                        </li>
-
-                        <li>
-                          <p>
-                            9 &lt; x &lt; 13
-                          </p>
-                        </li>
-
-                    </ol>
-                  </p>
-                </li>
-                <li>
-                  <p>
-                    A health chart shows that a healthy breakfast cereal contains 
-                    at least 3 grams of fibre and not more than 5 grams per serving. 
-                    Illustrate the information on a number line.
-                  </p>
-                </li>
-              </ol>
-            
+            <statement>
+              <p>
+                Exercise here.
+              </p>
+            </statement>
           </exercise>
     </subsection>
 </section>
