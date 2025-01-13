@@ -18,11 +18,10 @@
                 <li><p>Share your work with other learners in the class.</p></li>
               </ol>
             </p>
-
-              <image source="assets/images/sea-saw.png" width="50%">
-                  <shortdescription>Mary and John on the seesaw.</shortdescription>
-              </image>
           </activity>
+          <image source="/sea-saw.png" width="50%">
+            <shortdescription>Mary and John on the seesaw.</shortdescription>
+          </image>
 
           <activity>
             <p><term>Work in Groups.</term></p>
@@ -110,7 +109,7 @@
           </activity>
 
           <example>
-            <title>Example 4</title>
+
               <statement>
                 <p>Illustrate <em>x &gt; 2</em> on a number line</p>
               </statement>
@@ -126,7 +125,6 @@
           </example>
 
           <example>
-            <title>Example 5</title>
               <statement>
                   <p>Illustrate <em>x <m>\ge</m> 8</em> on a number line</p>
               </statement>
@@ -142,20 +140,9 @@
           </example>
 
           <exercise>
-            <title>Exercise 3</title>
-            <task>
-              <statement>
-                <p>Illustrate the following inequalities on a number line.</p>
-                  <p>
-                    <ol>
-                    <li> <p>x &lt; 3</p> </li>
-                      <li> <p>x &gt; 4 </p> </li>
-                      <li> <p>x <m>\ge</m> 5</p> </li>
-                    <li> <p>x <m>\le</m> 6</p> </li>
-                  </ol>
-                  </p>
-              </statement>
-            </task>
+            <p>
+              Exercise here.
+            </p>
           </exercise>
     </subsection>
 
