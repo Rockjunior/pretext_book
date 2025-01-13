@@ -3,118 +3,255 @@
 <section xml:id="sec-Algebraic-expressions" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Algebraic-expressions</title>
   
-   <subsection xml:id="subsec-Formation_of_Algebraic_Expression_from_real_life_situations">
-    <title>Formation of Algebraic Expression from real life situations</title>
-    <activity>
-     <p> <em>Work in groups</em> </p>
-       <p>
-        (i) Identify and form four groups of objects according to their
-          similarities.
-       </p>
-       <p>
-        (ii) To each group add or subtract a number of items.
-       </p>
-       <p>
-        (iii) Form and write expressions to represent the new number of items
-        in each group.
-       </p>
-       <p>
-        (iv) Discuss and share with other groups.
-       </p>
-        <p>
-          Learning point
-        </p>
-       <p>
-        The expressions formed are algebraic expressions. The expressions are in one unknown.
-       </p>
-    </activity>
-       <example>
-          <p>
-         <em>Example 1</em>
-          In a classroom of 30 learners there are <m>n</m> boys. Form an expression for the number of girls.
-          </p>
-          <p>
-          <em>Solution</em>
-          </p>
-          <p>
-          The number of girls is <m>30 - n</m>
-          </p>
-          <p>
-          
-          </p>
-          <p>
-         <em>Example 2</em>
-          </p>
-          <p>
-            There are<m>x</m> mangoes and <m>y</m> orange trees in a farm.Form an expression for the total number of mango and orange trees in the farm.
-          </p>
-           
-          <p><em>Solution</em></p>
-          <p>
-          The total number of mango and orange trees are <m>x+y</m>.
-          </p>
-          <p>
-            
-          </p>
-          <p><em>Note:</em>This is an algebraic expression in two unknowns.</p>
-        </example>
-        <!-- <title>Formation of Algebraic Expression from real life situations</title> -->
-        
-          <!-- <title> <term>Work in groups</term> </title> -->
-              <p>
-                <ol>
-                  <li>
-                    <p>
-                      Identify and form four groups of objects according to their similarities.
-                    </p>
-                  </li>
+    <subsection xml:id="subsec-Formation_of_Algebraic_Expression_from_real_life_situations">
+      <title>Formation of Algebraic Expression from real life situations</title>
+        <activity>
+        <p> <em>Work in groups</em> </p>
+            <p>
+                    <ol marker="i)">
+                      <li>
+                        <p>
+                          Identify and form four groups of objects according to their similarities.
+                        </p>
+                      </li>
 
-                  <li>
-                    <p>
-                      To each group add or subtract a number of items.
-                    </p>
-                  </li>
+                      <li>
+                        <p>
+                          To each group add or subtract a number of items.
+                        </p>
+                      </li>
 
-                  <li>
-                    <p>
-                      Form and write expressions to represent the new number of items in each group.
-                    </p>
-                  </li>
+                      <li>
+                        <p>
+                          Form and write expressions to represent the new number of items in each group.
+                        </p>
+                      </li>
 
-                  <li>
-                    <p>
-                        Discuss and share with other groups.
-                    </p>
-                  </li>
-                  
-                </ol>
-              </p>
-            <example>
-              <statement>
-                <p>
-                  In a classroom of 30 learners there are n boys. Form an expression for the number of girls.
-                </p>
-              </statement>
+                      <li>
+                        <p>
+                            Discuss and share with other groups.
+                        </p>
+                      </li>
+                      
+                    </ol>
+                  </p>
+        </activity>
+       
+        <example>
+          <statement>
+             <p>
+                  In a classroom of <m>30</m> learners there are <m>n</m> boys. Form an expression for the number of girls.
+            </p>
+          </statement>
 
-              <solution>
+          <solution>
                   <p>
                       The number of girls is <m>30 - n</m>
                   </p>
-              </solution>
-          </example>
+          </solution>
+        </example>
+        
+        <example>
+          <statement>
+             <p>
+             There are <m>x</m> mangoes and <m>y</m> orange trees in a farm. Form an expression for the total number of mango and orange trees in the farm.
+            </p>
+          </statement>
 
-          <example>
-              <statement>
-                <p>
-                  There are x mangoes and y oranges a farm.  Form an expression for the total number of mango and orange trees in the farm.
-                </p>
-              </statement>
-              <solution>
-                <p>
-                  The total number of mango and orange trees are <m>x + y.</m>
-                </p>
-              </solution>
-          </example>
+          <solution>
+                  <p>
+                   The total number of mango and orange trees are <m>x + y.</m>
+                  </p>
+          </solution>
+        </example>
+
+        <note>
+
+         <p>This is an algebraic expression in two unknowns.</p>
+
+        </note>
+
+        <exercise>
+          <statement>
+            <p>
+              
+            </p>
+          </statement>
+
+          <solution>
+            <p>
+              
+            </p>
+          </solution>
+        </exercise>
       
   </subsection>
+<subsection xml:id="subsec-Formation_of_algebraic_expressions_from_simple_algebraic_statements_involving_addition_and_subtraction">
+  <title>Formation of algebraic expressions from simple algebraic statements , involving addition and subtraction.</title>
+  <activity>
+    <p> <em>Work in groups</em> </p>
+    <p>
+      Karisa buys mangoes from a kiosk.He then buys two more mangoes from another kiosk.
+    </p>
+      <p>
+                    <ol marker="i)">
+                      <li>
+                        <p>
+                          Use a letter to represent the number of mangoes Karisa bought from the first kiosk.
+                        </p>
+                      </li>
+
+                      <li>
+                        <p>
+                          Write down an algebraic expression for the total number of mangoes Karisa bought.
+                        </p>
+                      </li>
+
+                      <li>
+                        <p>
+                            Discuss and share with other groups.
+                        </p>
+                      </li>
+                      
+                    </ol>
+                  </p>
+  </activity>
+  <example>
+    <statement>
+      <p>
+        Mwangi is <m>6</m> years older than Otieno If Otieno’s age is <m>X</m> years, write down an algebraic expression for Mwangi’s age.
+      </p>
+    </statement>
+    <solution>
+      <p>
+        Mwangi’s age = <m>(x+6)</m>  years.
+      </p>
+    </solution>
+  </example>
+</subsection>
+<subsection xml:id="subsec-Formation_of_algebraic_expressions_from_simple_algebraic_statements_involving_multiplication_and_division">
+  <title>Formation of algebraic expressions from simple algebraic statements involving multiplication and division</title>
+  <example>
+  <statement>
+    <p>
+       Form an algebraic expression for the number of hours in <m>t</m> days.
+    </p>
+  </statement>
+  <solution>
+    <p>
+      The number of hours in <m>1 = 24</m>
+    </p>
+    <p>
+      Thus the number of hours in <m>t days = 24t</m>
+    </p>
+  </solution>   
+  </example>
+  <example>
+    <statement>
+      <p>
+      <m>100</m> members of a group are given r tree seedlings to share equally. Form an algebraic expression for the number of seedlings each member gets.
+      </p>
+    </statement>
+    <solution>
+      <p>
+        Each member gets <m>frac{r}{100}</m> seedlings.
+      </p>
+    </solution>
+  </example>
+</subsection>
+<subsection xml:id="subsec-Simplification_of_algebraic_expressions_in_real_life_situations">
+  <title>Simplification of algebraic expressions in real life situations</title>
+  <activity>
+  <p> <em>Work in groups</em> </p>
+    <p>
+      <ol marker="i">
+        <li>
+          <p>
+            Consider a mathematical set costing <m>n</m> shillings and a textbook costing <m>250</m> shillings more than the set.
+          </p>
+        </li>
+      </ol>
+      <ol>
+        <li>
+          <p>
+            Form an algebraic expression for the cost of a textbook.
+          </p>
+        </li>
+      </ol>
+      <ol>
+        <li>
+          <p>
+            Form and simplify an algebraic expression for the total cost of <m>2</m> mathematical sets and <m>3</m> textbooks.
+          </p>
+        </li>
+      </ol>
+      <ol>
+        <li>
+          <p>
+            Discuss and compare your expressions with other groups.
+          </p>
+        </li>
+      </ol>
+    </p>
+  </activity>
+  <p>
+  <em>Learning point:</em>
+  </p>
+  <p>
+    Simplification in algebra involves putting like terms together.
+  </p>
+  <example>
+    <statement>
+      <p>
+      Joseph initially had <m>y</m> shillings . He spent <m>2000</m> shillings.James has twice what Joseph is left with. Form an algebraic expression for the total amount of money they both have.
+      </p>
+    </statement>
+    <solution>
+      <p>
+        Joseph has <m>y - 2000</m>
+      </p>
+      <p>
+        James has <m>2(y - 2000)</m>
+      </p>
+      <p>
+        \qquad <m>=2y - 4000</m>
+      </p>
+      <p>
+        The total amount in shillings.
+      </p>
+      <p>
+        \qquadd <m>=y - 2000 + y - 4000</m>
+      </p>
+      <p>
+        \qquad <m>=y + y - 2000 - 4000</m>
+      </p>
+      <p>
+       \qquadd <m>=3y - 6000 </m>
+
+      </p>
+    </solution>
+  </example>
+  <example>
+    <statement>
+      <p>
+        Konyango bought <m>x</m> sheep at <m>2500</m> shillings each.He also bought goats which were <m>y </m> less than the number of sheep at <m>3000</m> shillings each. Form an algebraic expression for the total amount of money Konyango spent on the animals.
+      </p>
+    </statement>
+    <solution>
+      <p>
+        The amount spent on <m>x</m> sheep was <m>KSh 2 500x</m>
+      </p>
+      <p>
+        On goats,he spent <m>KSh 3000(x - y)</m>
+      </p>
+      <p>
+        The total amount <m>=Ksh 2500x + Ksh 3000x - Ksh 300y</m>
+      </p>
+      <p>
+        \qquad <m>=Ksh 5500x - Ksh 3000y</m>
+      </p>
+    </solution>
+  </example>
+  
+</subsection>
 </section>
