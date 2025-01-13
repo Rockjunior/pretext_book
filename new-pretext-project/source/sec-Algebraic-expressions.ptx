@@ -21,32 +21,104 @@
        <p>
         (iv) Discuss and share with other groups.
        </p>
-        Learning point
-        <p>
-          The expressions formed are algebraic expressions. The expressions are
-          in one unknown.
-        </p>
-            <example>
+        <em>Learning point</em>
+       <p>
+        The expressions formed are algebraic expressions. The expressions are in one unknown.
+       </p>
+    </activity>
+       <example>
           <p>
-          1. In a classroom of 30 learners there are <m>n</m> boys. Form an expression for
-            the number of girls.
+         <em>Example 1</em>
+          In a classroom of 30 learners there are <m>n</m> boys. Form an expression for the number of girls.
           </p>
           <p>
-            <em>Solution</em>
+          <em>Solution</em>
           </p>
           <p>
-            The number of girls is <m>30 - n</m>
+          The number of girls is <m>30 - n</m>
           </p>
           <p>
-          2. There are <m>x</m> mangoes and <m>y</m> orange trees in a farm.Form an expression
-          for the total number of mango and orange trees in the farm.
+          
+          </p>
+          <p>
+         <em>Example 2</em>
+          <p>
+          There are <m>x</m> mangoes and <m>y</m> orange trees in a farm.Form an expression for the total number of mango and orange trees in the farm.
           </p> 
+          <p><em>Solution</em></p>
+          <p>
+          The total number of mango and orange trees are <m>x+y</m>.
+          </p>
+          <p>
+            
+          </p>
+          <p><em>Note:</em>This is an algebraic expression in two unknowns.</p>
         </example>
+        <title>Formation of Algebraic Expression from real life situations</title>
+        
+          <title> <term>Work in groups</term> </title>
+          <ol>
+            <li>
+              <p>
+                 Identify and form four groups of objects according to their similarities.
+              </p>
+            </li>
+            <li>
+              <p>
+                To each group add or subtract a number of items.
+              </p>
+            </li>
+            <li>
+              <p>
+                Form and write expressions to represent the new number of items in each group.
+              </p>
+            </li>
+            <li>
+              <p>
+                  Discuss and share with other groups.
+              </p>
+            </li>
+          </ol>
+            <claim xml:id="claim-Learning_point">
+                      <statement>
+                         <p>Learning point</p>
+                          <p>
+                            The expressions formed are algebraic expressions. The expressions are
+                            in one unknown.
+                          </p>
+                      </statement>
+            </claim>
+          </activity> 
 
-        <<em>example</em>>
+          <example>
+            <title>Example 1</title>
+                  <p>
+                      In a classroom of 30 learners there are n boys. Form an expression for the number of girls.
+                  </p>
+
+                  <solution>
+                      <p>
+                          The number of girls is <m>30 - n</m>
+                      </p>
+                  </solution>
+          </example>
+
+          <example>
+            <title>Example 2</title>
                 <p>
-                  There are x mangoes and y orangenin a farm.  Form
+                  There are x mangoes and y oranges a farm.  Form an expression for the total number of mango and orange trees in the farm.
+>>>>>>> refs/remotes/origin/main
                 </p>
+                <solution>
+                  <p>
+                    The total number of mango and orange trees are <m>x + y.</m>
+                  </p>
+                </solution>
+                <note>
+                      <p>
+                        This is an algebraic expression with two unknowns.
+                      </p>
+                </note>
           </example>
     </activity>
   </subsection>
