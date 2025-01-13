@@ -142,19 +142,19 @@
       The number of hours in <m>1 = 24</m>
     </p>
     <p>
-      Thus the number of hours in <m>t days = 24t</m>
+      Thus the number of hours in <m>t  days = 24t</m>
     </p>
   </solution>   
   </example>
   <example>
     <statement>
       <p>
-      <m>100</m> members of a group are given r tree seedlings to share equally. Form an algebraic expression for the number of seedlings each member gets.
+      <m>100</m> members of a group are given <m>r</m> tree seedlings to share equally. Form an algebraic expression for the number of seedlings each member gets.
       </p>
     </statement>
     <solution>
       <p>
-        Each member gets <m>frac{r}{100}</m> seedlings.
+        Each member gets <m> \frac{r}{100}</m> seedlings.
       </p>
     </solution>
   </example>
@@ -214,19 +214,19 @@
         James has <m>2(y - 2000)</m>
       </p>
       <p>
-        \qquad <m>=2y - 4000</m>
+       <m>=2y - 4000</m>
       </p>
       <p>
         The total amount in shillings.
       </p>
       <p>
-        \qquadd <m>=y - 2000 + y - 4000</m>
+        \qquad <m>=y - 2000 + y - 4000</m>
       </p>
       <p>
-        \qquad <m>=y + y - 2000 - 4000</m>
+                <m>=y + y - 2000 - 4000</m>
       </p>
       <p>
-       \qquadd <m>=3y - 6000 </m>
+                <m>=3y - 6000 </m>
 
       </p>
     </solution>
