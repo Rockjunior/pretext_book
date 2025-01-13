@@ -21,7 +21,9 @@
        <p>
         (iv) Discuss and share with other groups.
        </p>
-        <em>Learning point</em>
+        <p>
+          Learning point
+        </p>
        <p>
         The expressions formed are algebraic expressions. The expressions are in one unknown.
        </p>
@@ -42,9 +44,11 @@
           </p>
           <p>
          <em>Example 2</em>
+          </p>
           <p>
-          There are <m>x</m> mangoes and <m>y</m> orange trees in a farm.Form an expression for the total number of mango and orange trees in the farm.
-          </p> 
+            There are<m>x</m> mangoes and <m>y</m> orange trees in a farm.Form an expression for the total number of mango and orange trees in the farm.
+          </p>
+           
           <p><em>Solution</em></p>
           <p>
           The total number of mango and orange trees are <m>x+y</m>.
@@ -54,9 +58,9 @@
           </p>
           <p><em>Note:</em>This is an algebraic expression in two unknowns.</p>
         </example>
-        <title>Formation of Algebraic Expression from real life situations</title>
+        <!-- <title>Formation of Algebraic Expression from real life situations</title> -->
         
-          <title> <term>Work in groups</term> </title>
+          <!-- <title> <term>Work in groups</term> </title> -->
               <p>
                 <ol>
                   <li>
@@ -85,9 +89,7 @@
                   
                 </ol>
               </p>
-          </activity> 
-
-          <example>
+            <example>
               <statement>
                 <p>
                   In a classroom of 30 learners there are n boys. Form an expression for the number of girls.
@@ -105,7 +107,6 @@
               <statement>
                 <p>
                   There are x mangoes and y oranges a farm.  Form an expression for the total number of mango and orange trees in the farm.
->>>>>>> refs/remotes/origin/main
                 </p>
               </statement>
               <solution>
@@ -114,6 +115,6 @@
                 </p>
               </solution>
           </example>
-    </activity>
+      
   </subsection>
 </section>
