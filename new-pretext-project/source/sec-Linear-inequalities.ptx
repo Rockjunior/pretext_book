@@ -6,350 +6,828 @@
     <subsection xml:id="subsec-Applying_Linear_Inequality_Symbols_to_inequality_statements">
       <title>Applying Linear Inequality Symbols to Inequality Statements.</title>
 
-          <activity>
-            <p><term>Work in Groups.</term></p>
-              <p>
-                <ol>
-                <li><p>You will need a seesaw.</p></li>
-                <li><p>One learner to sit on one end of the seesaw and another on the other end.</p></li>
-                <li><p>Find out who is heavier.</p></li>
-                <li><p>Find out who is lighter.</p></li>
-                <li><p>Repeat the information using the inequality symbols.</p></li>
-                <li><p>Share your work with other learners in the class.</p></li>
-              </ol>
-            </p>
-          </activity>
-          <image source="/sea-saw.png" width="50%">
-            <shortdescription>Mary and John on the seesaw.</shortdescription>
-          </image>
+      <activity>
+      
+        <p>
+          <term>Work in Groups.</term>
+        </p>
 
-          <activity>
-            <p><term>Work in Groups.</term></p>
-              <p>Read the story below and answer the questions that follow.</p>
-                <p>Harriet visited a nutritionist. She was advised not to take more than two eggs in a day.
-                She was also advised to be eating not less than three fruits in a day.</p>
+        <p>
+
+          <ol>
+
+            <li>
+              
               <p>
-                <ol>
-                    <li><p>Why is it important to include fruits in our diet?</p></li>
-                    <li><p>How can we represent the above information using inequality symbols?</p></li>
-                    <li><p>Share your findings with other learners.</p></li>
-                </ol>
+                You will need a seesaw.
               </p>
-          </activity>
+              
+            </li>
 
-          <example>
-            <statement>
-              <p>Use the symbols <m>greater than or less than</m>to compare the following pairs of numbers;</p>
+            <li>
+              
               <p>
-                <ol marker="a)" cols="2">
-                  <li>
-                    <p>
-                      <m> 4 \text{ and } 9</m>
-                    </p>
-                  </li>
-                  <li>
-                    <p>
-                      <m>16 \text{ and } 11</m>
-                    </p>
-                  </li>
-                </ol>
+                One learner to sit on one end of the seesaw and another on the other end.
               </p>
-            </statement>
+              
+            </li>
 
-                <solution>
-                  <p>
-                    <ol>
-                      <li><p><m>4</m> is less than 9 which is written as <m>4 &lt; 9</m></p></li>
-                      <li><p><m>16</m> is greater than 11 which is written as <m>16 &gt; 11</m></p></li>
-                    </ol>
-                  </p>
-                </solution>
-          </example>
+            <li>
+              
+              <p>
+                Find out who is heavier.
+              </p>
+            
+            </li>
 
-          <example>
-            <statement>
-              <p>In a village each family has atleast seven goats. Using letter <m>g</m> to represent goats, write an inequality to represent the statement given.</p>
-            </statement>
+            <li>
+              
+              <p>
+                Find out who is lighter.
+              </p>
+              
+            </li>
 
-              <solution>
-                <p>
-                  Each family should have more than <m>7</m> goats, therefore the inequality should be represented as;
-                </p>
-                <p>
-                  <m>g &gt; 7</m>
-                </p>
-              </solution>
-          </example>
+            <li>
+              
+              <p>
+                Repeat the information using the inequality symbols.
+              </p>
+              
+            </li>
 
-          <exercise>
-            <p>
-              Exercise here
-            </p>
-          </exercise>
+            <li>
+              
+              <p>
+                Share your work with other learners in the class.
+              </p>
+            
+            </li>
+
+          </ol>
+
+        </p>
+
+      </activity>
+
+      <image source="/sea-saw.png" width="50%">
+        <shortdescription>Mary and John on the seesaw.</shortdescription>
+      </image>
+
+      <activity>
+
+        <p>
+          <term>Work in Groups.</term>
+        </p>
+
+        <p>
+          Read the story below and answer the questions that follow.
+        </p>
+
+        <p>
+          Harriet visited a nutritionist. She was advised not to take more than two eggs in a day. She was also advised to be eating not less than three fruits in a day.
+        </p>
+
+        <p>
+
+          <ol>
+
+            <li>
+              
+              <p>
+                Why is it important to include fruits in our diet?
+              </p>
+              
+            </li>
+
+            <li>
+              
+              <p>
+                How can we represent the above information using inequality symbols?
+              </p>
+            
+            </li>
+
+            <li>
+              
+              <p>
+                Share your findings with other learners.
+              </p>
+
+            </li>
+
+          </ol>
+
+        </p>
+
+      </activity>
+
+      <p>
+        <term>Learning Point.</term>
+      </p>
+
+      <p>
+        The inequality sign for greater than or equal to is <m>\ge</m>.
+      </p>
+
+      <p>
+        Inequality sign for less than or equal to is <m>\le</m>.
+      </p>
+
+      <example>
+
+      <statement>
+
+        <p>
+          Use the symbols <m>greater than or less than</m>to compare the following pairs of numbers;
+        </p>
+
+        <p>
+
+          <ol marker="a)" cols="2">
+
+            <li>
+
+              <p>
+                <m> 4 \text{ and } 9</m>
+              </p>
+
+            </li>
+
+            <li>
+
+              <p>
+                <m>16 \text{ and } 11</m>
+              </p>
+
+            </li>
+
+          </ol>
+
+        </p>
+
+      </statement>
+
+      <solution>
+        
+        <p>
+
+          <ol>
+
+            <li>
+
+              <p>
+                <m>4</m> is less than 9 which is written as <m>4 &lt; 9</m>
+              </p>
+              
+            </li>
+
+            <li>
+              
+              <p>
+                <m>16</m> is greater than 11 which is written as <m>16 &gt; 11</m>
+              </p>
+
+            </li>
+
+          </ol>
+
+        </p>
+
+      </solution>
+
+      </example>
+
+      <example>
+
+        <statement>
+
+          <p>
+            In a village each family has atleast seven goats. Using letter <m>g</m> to represent goats, write an inequality to represent the statement given.
+          </p>
+
+        </statement>
+
+        <solution>
+          
+          <p>
+            Each family should have more than <m>7</m> goats, therefore the inequality should be represented as;
+          </p>
+
+          <p>
+            <m>g &gt; 7</m>
+          </p>
+
+        </solution>
+
+      </example>
+
+      <exercise>
+
+        <p>
+          Exercise here
+        </p>
+
+      </exercise>
+
     </subsection>
 
     <subsection xml:id="subsec-Forming_a_Simple_Linear_Inequalities_in_Real_Life_Situatuans">
       <title>Forming a Simple Linear Inequalities in Real Life Situatuans</title>
+
       <activity>
+
         <title><term>Work in Groups</term></title>
-          <p>
+
+        <p>
+          Bag <m>A</m> contains ,<m>x</m> mangoes. Two mangoes are added to it. The total number of mangoes is ether equal to or less than the number of mangoes in bag <m>B</m>, which contains <m>30</m> mangoes.
+        </p>
+
+        <p>
+          <term>In pairs:</term>
+        </p>
+
+        <p>
+          
+          <ol>
+
+            <li>
+
+              <p>
+                Add 2 mangoes to <m>x</m>.
+              </p>
+
+            </li>
+
+            <li>
+
+              <p>
+                Compare the quantities <m>x + 2</m> and <m>30</m>.
+              </p>
+
+            </li>
+
+            <li>
+
+              <p>
+                Discuss and share your results.
+              </p>
+
+            </li>
             
-          </p>
+          </ol>
+          
+        </p>
+        
         
       </activity>
+
+      <example>
+
+        <statement>
+
+          <p>
+            Jane had some oranges. She gave Mwara 5 of them. She was left with at least most <m>12</m> of them. Write an inequality to represent this statement.
+          </p>
+
+        </statement>
+
+        <solution>
+
+          <p>
+            Let the number of oranges be <m>x</m>.
+          </p>
+
+          <p>
+            <m>x - 5</m> is less than or equal to 12.
+          </p>
+
+          <p>
+            <m>x - 5 \le 12</m>
+          </p>
+
+        </solution>
+
+      </example>
+
+      <exercise>
+
+        <statement>
+
+          <p>
+            Exercise here.
+          </p>
+
+        </statement>
+
+      </exercise>
       
     </subsection>
 
     <subsection xml:id="subsec-Illustrating_simple_linear_inequality_on_a_number_line">
       <title>Illustrating simple linear inequality on a number line</title>
 
-          <activity>
-            <p>
-              <term>Work in Groups.</term>
-            </p>
+      <activity>
+
+        <p>
+          <term>Work in Groups.</term>
+        </p>
+
+        <p>
+
+          <ol>
+
+            <li>
+              
+              <p>
+                Consider <em>x &gt; 2.</em>
+              </p>
+                
+            </li>
+
+            <li>
+              
+              <p>
+                Draw a number line.
+              </p>
+
+            </li>
+
+            <li>
+              <p>
+                Identify some of the numbers that satisfy the inequality.
+              </p>
+            </li>
+
+            <li>
 
               <p>
-                <ol>
-                <li><p>Consider <em>x &gt; 2.</em></p></li>
-                <li><p>Draw a number line.</p></li>
-                <li><p>Identify some of the numbers that satisfy the inequality.</p></li>
-                <li><p>Confirm whether the numbers are to the left or right of digit 2.</p></li>
-                <li><p>Circle digit 2.</p></li>
-                <li><p>From the circle, draw an arrow facing the direction with numbers which satisfy the inequality.</p></li>
-                <li><p>Discuss and share with others.</p></li>
-              </ol>
+                Confirm whether the numbers are to the left or right of digit 2.
               </p>
-          </activity>
+            
+            </li>
 
-          <example>
+            <li>
+              
+              <p>
+                Circle digit 2.
+              </p>
 
-              <statement>
-                <p>Illustrate <m>x &gt; 2</m> on a number line</p>
-              </statement>
+            </li>
 
-                  <solution>
-                    <p>
-                      Circle at digit <m>2</m> and draw a line pointing towards numbers greater than <m>2</m>.
-                    </p>
-                    <p>
-                      TODO add number line here
-                    </p>
-                  </solution>
-          </example>
+            <li>
 
-          <example>
-              <statement>
-                  <p>Illustrate <m>x \ge 8</m> on a number line</p>
-              </statement>
-                  
-                  <solution>
-                    <p>
-                       Draw a circle at digit <m>8</m> and shade it then draw a line towards digits greater than <m>8</m>.
-                    </p>
-                    <p>
-                    TODO add number line here
-                    </p>
-                  </solution>
-          </example>
+              <p>
+                From the circle, draw an arrow facing the direction with numbers which satisfy the inequality.
+              </p>
+            
+            </li>
 
-          <exercise>
+            <li>
+              
+              <p>
+                Discuss and share with others.
+              </p>
+            
+            </li>
+
+          </ol>
+
+        </p>
+        
+      </activity>
+
+      <p>
+        <term>Learning Points.</term>
+      </p>
+
+      <p>
+        
+        <ol>
+
+          <li>
+
             <p>
-              Exercise here.
+              For inequalities with symbols <m>\lt</m> or <m>\gt</m>, the boundary digits are circled in the representations.
             </p>
-          </exercise>
+
+          </li>
+
+          <li>
+
+            <p>
+              For inequalities with symbols <m>\le</m> or <m>\ge</m>, the circles are shaded.
+            </p>
+
+          </li>
+
+        </ol>
+
+      </p>
+
+      <example>
+
+          <statement>
+
+            <p>
+              Illustrate <m>x &gt; 2</m> on a number line.
+            </p>
+
+          </statement>
+
+          <solution>
+            
+            <p>
+              Circle at digit <m>2</m> and draw a line pointing towards numbers greater than <m>2</m>.
+            </p>
+
+            <p>
+              TODO add number line here
+            </p>
+
+          </solution>
+
+      </example>
+
+      <example>
+
+        <statement>
+
+            <p>
+              Illustrate <m>x \ge 8</m> on a number line
+            </p>
+
+        </statement>
+            
+        <solution>
+
+          <p>
+              Draw a circle at digit <m>8</m> and shade it then draw a line towards digits greater than <m>8</m>.
+          </p>
+
+          <p>
+          TODO add number line here
+          </p>
+
+        </solution>
+
+      </example>
+
+      <exercise>
+
+        <p>
+          Exercise here.
+        </p>
+
+      </exercise>
+
     </subsection>
 
     <subsection xml:id="subsec-Forming_Compound_Linear_Inequality_in_one_unkown">
       <title>Forming Compound Linear Inequality in one unkown.</title>
 
-          <activity>
+      <activity>
+
+        <p>
+          <term>Work in Groups.</term>
+        </p>
+
+        <p>
+
+          <ol>
+
+            <li>
+
               <p>
-                <term>Work in Groups.</term>
+                Consider <m>x &gt; 1</m> and <m>x &lt; 6.</m>
               </p>
-                <p>
-                  <ol>
-                    <li><p>Consider <m>x &gt; 1</m> and <m>x &lt; 6.</m></p></li>
-                        <li> <p>Make <m>6</m> paper cut-outs and write on each cut-out numbers <m>1</m> to <m>6</m>.</p></li>
-                          <li><p>Arrange the numbers on the cut-outs in an ascending order.</p></li>
-                          <li><p>Shade the cutouts that satisfy <m>x &gt; 1</m>.</p></li>
-                        <li><p>Using the same cut-outs, shade the cut-outs that satisfy <m>x &lt; 6</m>.</p> </li>
-                     <li><p>List down the numbers that satisfy <m>x &gt; 1</m> and x &lt; 6.</p></li>
-                </ol>
-                </p>
-          </activity>
+
+            </li>
+
+            <li>
+
+              <p>
+                Make <m>6</m> paper cut-outs and write on each cut-out numbers <m>1</m> to <m>6</m>.
+              </p>
+            
+            </li>
+                  
+            <li>
+              
+              <p>
+                Arrange the numbers on the cut-outs in an ascending order.
+              </p>
+
+            </li>
+
+            <li>
+
+              <p>
+                Shade the cutouts that satisfy <m>x &gt; 1</m>.
+              </p>
+
+            </li>
+
+            <li>
+              
+              <p>
+                Using the same cut-outs, shade the cut-outs that satisfy <m>x &lt; 6</m>.
+              </p> 
+
+            </li>
+
+              <li>
+
+              <p>
+                List down the numbers that satisfy <m>x &gt; 1</m> and x &lt; 6.
+              </p>
+
+            </li>
+
+          </ol>
           
-          <example>
+        </p>
+        
+      </activity>
 
-              <statement>
-                <p>
-                  Form a compound inequality for <m>x &lt; 8 and x &gt; 2</m>.
-                </p>
-              </statement>
+      <p>
+        <term>Learning Point.</term>
+      </p>
 
-                <solution>
-                  <p><m>x &gt; 2</m> is the same as <m>2 &lt; x</m></p>
-                    <p>Combining <m>2 &lt; x</m> and <m>x &lt; 8</m> gives the compound inequality <m>2 &lt; x &lt; 8</m>.</p>
-                </solution>
-          </example>
+      <p>
+        Two simple inequalities when combbined form a compound inequality.
+      </p>
+      
+      <example>
 
-          <example>
+        <statement>
 
-            <statement>
-              <p>
-                Form a compound inequality for <m>y \ge 3</m> and <m>y \le 12.</m>
-              </p>
-            </statement>
+          <p>
+            Form a compound inequality for <m>x &lt; 8 and x &gt; 2</m>.
+          </p>
+          
+        </statement>
 
-              <solution>
-                  <p>
-                    <m>y \ge 3</m> is the same as <m> 3\le y</m>.
-                  </p>
-                  <p>
-                    Combining 3 <m>\le</m> y and <m>y \le 12</m>.
-                  </p>
-                  <p>
-                    Gives the compound inequality 3 <m>\le</m> y <m>\le</m> 12.
-                  </p>
-              </solution>
-          </example>
+        <solution>
 
-          <exercise>
-            <statement>
-              <p>
-                Exercise here.
-              </p>
-            </statement>
-          </exercise>
+          <p>
+            <m>x &gt; 2</m> is the same as <m>2 &lt; x</m>
+          </p>
+
+          <p>
+            Combining <m>2 &lt; x</m> and <m>x &lt; 8</m> gives the compound inequality <m>2 &lt; x &lt; 8</m>.
+          </p>
+
+        </solution>
+
+      </example>
+
+      <example>
+
+        <statement>
+
+          <p>
+            Form a compound inequality for <m>y \ge 3</m> and <m>y \le 12.</m>
+          </p>
+
+        </statement>
+
+        <solution>
+
+            <p>
+              <m>y \ge 3</m> is the same as <m> 3\le y</m>.
+            </p>
+
+            <p>
+              Combining 3 <m>\le</m> y and <m>y \le 12</m>.
+            </p>
+
+            <p>
+              Gives the compound inequality 3 <m>\le</m> y <m>\le</m> 12.
+            </p>
+
+        </solution>
+
+      </example>
+
+      <exercise>
+
+        <statement>
+
+          <p>
+            Exercise here.
+          </p>
+
+        </statement>
+
+      </exercise>
+
     </subsection>
 
     <subsection xml:id="subsec-Illustrating_compound_inequalities_on_a_number_line">
       <title>Illustrating compound inequalities on a number line</title>
 
-          <activity>
-              <title><term>Work in Groups</term></title>
-                <p>
-                    <ol>
-                  <li>
-                    <p>
-                      Consider <m>5&lt;x&lt;12.</m>
-                    </p>
-                  </li>
-                  <li>
-                    <p>
-                      Write down the two simple inequalities from the compound inequality.
-                    </p>
-                  </li>
-                  <li>
-                    <p>
-                      Draw a number line.
-                    </p>
-                  </li>
-                  <li>
-                    <p>
-                      Illustrate the two inequalities on the same number line.
-                    </p>
-                  </li>
-                  <li>
-                    <p>
-                      Discuss and share with other groups.
-                    </p>
-                  </li>
-                </ol>
-                </p>
-          </activity>
+      <activity>
+        <title><term>Work in Groups</term></title>
 
-          <example>
+        <p>
+          
+          <ol>
 
-            <statement>
-              <p>
-                Illustrate the compound inequality <m>4 &lt; y &lt; 8</m> on a number line.
-              </p>
-            </statement>
+          <li>
 
-            <solution>
-              <p>
-                <m>4 &lt; y &lt; 8</m> can also be written as <m>y &gt; 4</m> and <m>y &lt; 8</m>
-              </p>
-
-            <image>
-              <shortdescription>Number line</shortdescription>
-                <latex-image>
-                  \begin{tikzpicture}
-                    \draw[very thick, &lt;- &gt;] (-0.5, 0) -- (10.5, 0);
-                        \foreach \x in {0,...,10}{
-                          \draw (\x,.25) -- (\x,-.25) node[below]{\x};
-                          }
-                    \draw[- &gt;, black!70!green] (5,.1) -- (10.2, .1);
-                    \draw[fill=black!70!green] (5,.1) circle (5pt);
-                  \end{tikzpicture}
-                </latex-image>
-            </image>
-
-            </solution>
-          </example>
-
-          <exercise>
             <p>
-              Exercise here.
+              Consider <m>5&lt;x&lt;12.</m>
             </p>
-          </exercise>
 
-          <activity>
-            <title><term>Work in Groups</term></title>
-              <p>
-                  <ol>
-              <li>
-                <p>
-                  Consider <m>3 \le x \le 9</m>.
-                </p>
-              </li>
-              <li>
-                <p>
-                  Write down the two simple inequalities from the compound inequality.
-                </p>
-              </li>
-              <li>
-                <p>
-                  Draw a number line.
-                </p>
-              </li>
-              <li>
-                <p>
-                  Illustrate the two inequalities on the same number line.
-                </p>
-              </li>
-              <li>
-                <p>
-                  Discuss and share with other groups.
-                </p>
-              </li>
-            </ol>
-              </p>
-          </activity>
+          </li>
 
-          <example>
-            <statement>
-              <p>
-                Illustrate the compound inequality <m>8 \le x le 12</m> on a number line.
-              </p>
-            </statement>
+          <li>
 
-            <solution>
-                <p>
-                  In <m>8 \le x \le 12, x \ge 8</m> and <m>x \le 12</m>
-                </p>
-              <p>
-                TODO add number line here.
-              </p>
-            </solution>
-          </example>
+            <p>
+              Write down the two simple inequalities from the compound inequality.
+            </p>
 
-          <exercise>
-            <statement>
+          </li>
+
+          <li>
+
+            <p>
+              Draw a number line.
+            </p>
+
+          </li>
+
+          <li>
+
+            <p>
+              Illustrate the two inequalities on the same number line.
+            </p>
+
+          </li>
+
+          <li>
+
+            <p>
+              Discuss and share with other groups.
+            </p>
+
+          </li>
+
+        </ol>
+
+        </p>
+
+      </activity>
+
+      <p>
+        <term>Learning Point.</term>
+      </p>
+
+      <p>
+        Part of a number line that satisfies two linear inequalities is the illustration of a given compound inequality.
+      </p>
+
+      <example>
+
+        <statement>
+
+          <p>
+            Illustrate the compound inequality <m>4 &lt; y &lt; 8</m> on a number line.
+          </p>
+
+        </statement>
+
+        <solution>
+
+          <p>
+            <m>4 &lt; y &lt; 8</m> can also be written as <m>y &gt; 4</m> and <m>y &lt; 8</m>
+          </p>
+
+        <image>
+          <shortdescription>Number line</shortdescription>
+
+            <latex-image>
+              \begin{tikzpicture}
+                \draw[very thick, &lt;- &gt;] (-0.5, 0) -- (10.5, 0);
+                    \foreach \x in {0,...,10}{
+                      \draw (\x,.25) -- (\x,-.25) node[below]{\x};
+                      }
+                \draw[- &gt;, black!70!green] (5,.1) -- (10.2, .1);
+                \draw[fill=black!70!green] (5,.1) circle (5pt);
+              \end{tikzpicture}
+            </latex-image>
+            
+        </image>
+
+        </solution>
+
+      </example>
+
+      <exercise>
+
+        <p>
+          Exercise here.
+        </p>
+
+      </exercise>
+
+      <activity>
+        <title><term>Work in Groups</term></title>
+        <p>
+
+          <ol>
+            
+            <li>
+
               <p>
-                Exercise here.
+                Consider <m>3 \le x \le 9</m>.
               </p>
-            </statement>
-          </exercise>
+
+            </li>
+
+            <li>
+
+              <p>
+                Write down the two simple inequalities from the compound inequality.
+              </p>
+
+            </li>
+
+            <li>
+
+              <p>
+                Draw a number line.
+              </p>
+
+            </li>
+
+            <li>
+
+              <p>
+                Illustrate the two inequalities on the same number line.
+              </p>
+
+            </li>
+
+            <li>
+
+              <p>
+                Discuss and share with other groups.
+              </p>
+
+            </li>
+
+          </ol>
+
+        </p>
+
+      </activity>
+
+      <p>
+        <term>Learning Point.</term>
+      </p>
+
+      <p>
+        Part of a number line that satisfies two linear inequalities is the illustration of a given compound inequality.
+      </p>
+
+      <example>
+
+        <statement>
+
+          <p>
+            Illustrate the compound inequality <m>8 \le x le 12</m> on a number line.
+          </p>
+
+        </statement>
+
+        <solution>
+
+          <p>
+            In <m>8 \le x \le 12, x \ge 8</m> and <m>x \le 12</m>
+          </p>
+
+          <p>
+            TODO add number line here.
+          </p>
+
+        </solution>
+
+      </example>
+
+      <exercise>
+
+        <statement>
+
+          <p>
+            Exercise here.
+          </p>
+
+        </statement>
+
+      </exercise>
+
     </subsection>
+
 </section>

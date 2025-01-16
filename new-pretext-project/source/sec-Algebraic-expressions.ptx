@@ -8,8 +8,10 @@
         
           <activity>
           <title> <term>Work in groups</term> </title>
+          
               <p>
                 <ol>
+
                   <li>
                     <p>
                       Identify and form four groups of objects according to their similarities.
@@ -40,24 +42,30 @@
 
           <example>
               <statement>
+
                 <p>
                   In a classroom of 30 learners there are n boys. Form an expression for the number of girls.
                 </p>
+
               </statement>
 
               <solution>
+
                   <p>
                       The number of girls is <m>30 - n</m>
                   </p>
+
               </solution>
           </example>
 
           <example>
+
               <statement>
                 <p>
                   There are x mangoes and y oranges a farm.  Form an expression for the total number of mango and orange trees in the farm.
                 </p>
               </statement>
+
               <solution>
                 <p>
                   The total number of mango and orange trees are <m>x + y.</m>
