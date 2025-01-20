@@ -28,15 +28,29 @@
                         </p>
                       </li>
 
-                  <li>
+                      <li>
+                        <p>
+                            Discuss and share with other groups.
+                        </p>
+                      </li>
+                      
+                    </ol>
+                  </p>
+        </activity>
+       
+        <example>
+          <statement>
+             <p>
+                  In a classroom of <m>30</m> learners there are <m>n</m> boys. Form an expression for the number of girls in the classroom.
+            </p>
+          </statement>
+
+              <solution>
                     <p>
                         Discuss and share with other groups.
                     </p>
-                  </li>
-                  
-                </ol>
-              </p>
-          </activity> 
+              </solution>
+        </example> 
 
           <example>
               <statement>
