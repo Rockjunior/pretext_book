@@ -2,6 +2,28 @@
 
 <section xml:id="sec-Linear-inequalities" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Linear Inequalities</title>
+  <introduction>
+    <p>
+      A linear inequality is a statement that compares two linear expressions using symbols such as:
+    </p>
+
+   <p>
+    <m>\lt</m>  <m>\rightarrow</m>  less than
+    </p>
+    
+      <p>
+      <m>\gt</m>  <m>\rightarrow</m>  greater than
+      </p>
+      <p>
+      <m>\le</m>  <m>\rightarrow</m>  less than or equal to
+      </p>
+      <p>
+      <m>\ge</m>  <m>\rightarrow</m>  greater than or equal to
+      </p>
+      <p>
+      These inequalities express a range of possible values rather than just one specific solution.
+      </p>
+  </introduction>
 
     <introduction>
 
