@@ -22,5 +22,5 @@ Visit <https://pretextbook.org/documentation.html> to learn more.
 ## ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ AUTHORS ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~##
 
 ## RODGERS MARAGIA
-# #ONYIMBO MICHAEL
-##KEVIN
+## ONYIMBO MICHAEL
+## KEVIN BARASA
