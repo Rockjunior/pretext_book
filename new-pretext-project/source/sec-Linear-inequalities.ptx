@@ -3,76 +3,92 @@
 <section xml:id="sec-Linear-inequalities" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Linear Inequalities</title>
 
+    <introduction>
+
+      <p>
+        Linear inequalities are the expressions where any two values are compared by the inequality symbols such as;
+      </p>
+
+      <p>
+        '<m>\lt</m>', '<m>\gt</m>', '<m>\le</m>' or '<m>\ge</m>'
+      </p>
+      
+    </introduction>
+
     <subsection xml:id="subsec-Applying_Linear_Inequality_Symbols_to_inequality_statements">
       <title>Applying Linear Inequality Symbols to Inequality Statements.</title>
-
-      <activity>
       
-        <p>
+      <activity>
+
+       <p>
           <term>Work in Groups.</term>
         </p>
 
-        <p>
+        <sidebyside>
 
-          <ol>
+          <p>
 
-            <li>
-              
-              <p>
-                You will need a seesaw.
-              </p>
-              
-            </li>
+            <ol>
 
-            <li>
-              
-              <p>
-                One learner to sit on one end of the seesaw and another on the other end.
-              </p>
-              
-            </li>
+              <li>
+                
+                <p>
+                  You will need a seesaw.
+                </p>
+                
+              </li>
 
-            <li>
-              
-              <p>
-                Find out who is heavier.
-              </p>
-            
-            </li>
+              <li>
+                
+                <p>
+                  One learner to sit on one end of the seesaw and another on the other end.
+                </p>
+                
+              </li>
 
-            <li>
+              <li>
+                
+                <p>
+                  Find out who is heavier.
+                </p>
               
-              <p>
-                Find out who is lighter.
-              </p>
-              
-            </li>
+              </li>
 
-            <li>
-              
-              <p>
-                Repeat the information using the inequality symbols.
-              </p>
-              
-            </li>
+              <li>
+                
+                <p>
+                  Find out who is lighter.
+                </p>
+                
+              </li>
 
-            <li>
+              <li>
+                
+                <p>
+                  Repeat the information using the inequality symbols.
+                </p>
+                
+              </li>
+
+              <li>
+                
+                <p>
+                  Share your work with other learners in the class.
+                </p>
               
-              <p>
-                Share your work with other learners in the class.
-              </p>
-            
-            </li>
+              </li>
 
-          </ol>
+            </ol>
 
-        </p>
+          </p>
+
+          <image source="/sea-saw.png" width="50%">
+            <shortdescription>Mary and John on the seesaw.</shortdescription>
+          </image>
+
+        </sidebyside>
 
       </activity>
-
-      <image source="/sea-saw.png" width="50%">
-        <shortdescription>Mary and John on the seesaw.</shortdescription>
-      </image>
 
       <activity>
 
@@ -178,6 +194,10 @@
 
               <p>
                 <m>4</m> is less than 9 which is written as <m>4 &lt; 9</m>
+              </p>
+
+              <p>
+                
               </p>
               
             </li>
