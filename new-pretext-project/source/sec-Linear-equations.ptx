@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec-Linear-equations" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Linear Eqquations</title>
+  <title>Linear Equations</title>
 
       <subsection xml:id="subsec-Forming_Equations_in_one_Unknown">
         <title>Forming Equations in One Unknown</title>
@@ -161,8 +161,11 @@
 
       <subsection xml:id="subsec-Solving_Linear_Equations_in_One_Unknown">
         <title>Solving_Linear Equations in One_Unknown"</title>
+
           <example>
+
             <statement>
+
               <p>
                 Solve the following equation:
               </p>
@@ -180,13 +183,13 @@
               
               <sidebyside>
                 
-                 <image source="./linear_inequality_sum.png">
-                <shortdescription>(for accessibility)</shortdescription>
-              </image>
+                <image source="./linear_inequality_sum.png">
+                  <shortdescription>(for accessibility)</shortdescription>
+                </image>
 
-              <image source="./linear_inequality_sum_2.png">
-                <shortdescription>(for accessibility)</shortdescription>
-              </image>
+                <image source="./linear_inequality_sum_2.png">
+                  <shortdescription>(for accessibility)</shortdescription>
+                </image>
 
               </sidebyside>
              
@@ -219,10 +222,189 @@
               </p>
 
               <p>
-                <m>5x\div5 =  20\div5</m>
+                <m>\frac{5x}{5} = \frac{20}{5}</m>
+              </p>
+
+              <p>
+                <m>x = 4</m>
               </p>
             </solution>
           </example>
+
+          <example>
+
+            <statement>
+              <p>
+                Solve <m>\frac{1}{4}h = 3</m>
+              </p>
+            </statement>
+
+            <solution>
+              <p>
+                Multiply both sides by 4
+              </p>
+
+              <p>
+                <m>\frac{1}{4}h \times 4 = 3 \times 4 </m>
+              </p>
+
+              <p>
+                <m>\frac{4h}{4} = 12</m>
+              </p>
+              
+              <p>
+                <m>h = 12</m>
+              </p>
+            </solution>
+
+          </example>
+
+          <exercise>
+
+            <statement>
+              <p>
+                Exercise Here.
+              </p>
+            </statement>
+
+          </exercise>
+      </subsection>
+
+      <subsection xml:id="subsec-Application_of_Linear_Equations_in_One_Unknown">
+        <title>Application of Linear Equations in One Unknown"</title>
+
+          <example>
+
+            <statement>
+
+              <p>
+                Dorine and Andrew are to share <m>10</m> kg of sugar so that Dorine gets <m>2</m> kg more than what Andrew receives. Find the weight received by each of them.
+              </p>
+
+            </statement>
+
+            <solution>
+
+              <p>
+                Let Andrew's share be <m>x</m> kg.
+              </p>
+
+              <p>
+                Dorine's share <m>= x + 2.</m>
+              </p>
+
+              <p>
+                Thus <m>x + x + 2 = 10.</m>
+              </p>
+
+              <p>
+                <m>2x + 2 = 10.</m>
+              </p>
+
+              <p>
+                <m>2x = 8.</m>
+              </p>
+
+              <p>
+                <m>x = 4</m>
+              </p>
+
+              <p>
+                Andrew's share is <m>4</m> kg and Dorine's share is <m>6</m> kg.
+              </p>
+
+            </solution>
+
+          </example>
+
+          <exercise>
+
+            <statement>
+
+              <p>
+                Exercise Here.
+              </p>
+
+            </statement>
+
+          </exercise>
+
+          <example>
+
+            <statement>
+
+              <p>
+                Makanda and Magut sell exercise books at <m>40</m> shillings per book. 
+                Peter bought some exercise books from Makanda's shop and <m>30</m> more from Magut's shop than from Makanda. He spent a total of <m>4400</m> shillings. Find the number of books bought from each shop.
+              </p>
+
+            </statement>
+
+            <solution>
+
+              <p>
+                Let the number of books bought from Makanda's shop be <m>x</m>.
+              </p>
+
+              <p>
+                The number of books bought from Magut's shop is <m>x + 30</m>.
+              </p>
+
+              <p>
+                Amount spent in Magut's shop <m>= 40 (x + 30).</m>
+              </p>
+
+              <p>
+                <m>= 40x + 1200.</m>
+              </p>
+
+              <p>
+                Amount spent in Makanda's shop <m>= 40x.</m>
+              </p>
+
+              <p>
+                Total amount <m>= 40x + 1200 + 40x</m>
+              </p>
+
+              <p>
+                <m>= 80x + 1200.</m>
+              </p>
+
+              <p>
+                Thus <m>80x + 1200 = 4400</m>.
+              </p>
+
+              <p>
+                <m>80x = 4400 - 1200.</m>
+              </p>
+
+              <p>
+                <m>80x = 3200.</m>
+              </p>
+
+              <p>
+                <m>x = 40.</m>
+              </p>
+
+              <p>
+                Number of books bought from Makanda's shop is <m>40</m> and from Magut's shop is <m>40 + 30</m> = <m>70</m>.
+              </p>
+            </solution>
+
+          </example>
+
+          <exercise>
+
+            <statement>
+
+              <p>
+                Exercise Here.
+              </p>
+
+            </statement>
+
+          </exercise>
+        
       </subsection>
 
 </section>
