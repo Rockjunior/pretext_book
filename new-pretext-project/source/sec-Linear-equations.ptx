@@ -3,8 +3,17 @@
 <section xml:id="sec-Linear-equations" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Linear Equations</title>
 
+    <introduction>
+
+      <p>
+        Linear equations are straight line equations involving one or two unknowns.
+      </p>
+
+    </introduction>
+
       <subsection xml:id="subsec-Forming_Equations_in_one_Unknown">
         <title>Forming Equations in One Unknown</title>
+
             <activity>
               <p>
                 <ol>
@@ -41,19 +50,29 @@
             </p>
 
             <example>
+
               <statement>
                 <p>
-                  A pupil bought a shirt and a pair of shorts. The cost of the pair of shorts was <m>150</m> shillings less than that of the shirt. If the two items cost <m>950</m> shillings. Write an equation representing the information using letter x as the cost of a shirt.
+                  A Walibora bought a shirt and a pair of shorts. The cost of the pair of shorts was <m>150</m> shillings less than that of the shirt. If the two items cost <m>950</m> shillings. Write an equation representing the information using letter <m>x</m> as the cost of a shirt.
                 </p>
               </statement>
 
               <solution>
+
                 <p>
                   The cost of one pair of shorts is <m>x - 150</m>
                 </p>
 
                 <p>
+                  The cost of a shirt and a pair of shorts can be represented using the expression shown below:
+                </p>
+
+                <p>
                   <m>x + (x - 150) = 950</m>
+                </p>
+
+                <p>
+                  Simplifying the equation, we get:
                 </p>
 
                 <p>
@@ -63,7 +82,13 @@
                 <p>
                   Thus the equation <m>2x - 150 = 950.</m>
                 </p>
+
+                <p>
+                  Represents the cost of a shirt and a pair of shorts.
+                </p>
+
               </solution>
+
             </example>
 
             <exercise>
@@ -77,7 +102,7 @@
       </subsection>
 
       <subsection xml:id="subsec-Solving_Linear_Equations_in_One_Unknown">
-        <title>Solving Linear Equations in One Unknown."</title>
+        <title>Solving Linear Equations in One Unknown.</title>
 
           <activity>
             <title>Work in Groups</title>
@@ -157,10 +182,6 @@
                 </li>
               </ol>
              </p>
-      </subsection>
-
-      <subsection xml:id="subsec-Solving_Linear_Equations_in_One_Unknown">
-        <title>Solving_Linear Equations in One_Unknown"</title>
 
           <example>
 
@@ -183,13 +204,21 @@
               
               <sidebyside>
                 
-                <image source="./linear_inequality_sum.png">
+                <image source="./linear_inequality_sum.png" width="30%">
                   <shortdescription>(for accessibility)</shortdescription>
                 </image>
 
-                <image source="./linear_inequality_sum_2.png">
+                <p>
+                  By substracting <m>5</m> from both sides you balance the beam balance which is represents the following equation. <m>x + 4 - 4 = 7 - 4</m>
+                </p>
+
+                <image source="./linear_inequality_sum_2.png" width="30%">
                   <shortdescription>(for accessibility)</shortdescription>
                 </image>
+
+                <p>
+                  Therefore,  <m>x = 3</m>
+                </p>
 
               </sidebyside>
              
@@ -271,7 +300,7 @@
       </subsection>
 
       <subsection xml:id="subsec-Application_of_Linear_Equations_in_One_Unknown">
-        <title>Application of Linear Equations in One Unknown"</title>
+        <title>Application of Linear Equations in One Unknown</title>
 
           <example>
 
@@ -294,7 +323,7 @@
               </p>
 
               <p>
-                Thus <m>x + x + 2 = 10.</m>
+                Thus, <m>x + x + 2 = 10.</m>
               </p>
 
               <p>
