@@ -2,9 +2,14 @@
 
 <section xml:id="sec-Algebraic-expressions" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Algebraic-expressions</title>
+  <p>
+    An algebraic expression is a combination of numbers, letters, and mathematical operations used to solve mathematical questions.
+  </p>
 
          
-        <p> <m>Formation of Algebraic Expression from real life situations</m></p>
+        <p>
+          <term>Formation of Algebraic Expression from  real  life  situations</term>
+        </p>
                     
         
           <activity>
@@ -39,20 +44,7 @@
                   </p>
         </activity>
        
-        <example>
-          <statement>
-             <p>
-                  In a classroom of <m>30</m> learners there are <m>n</m> boys. Form an expression for the number of girls in the classroom.
-            </p>
-          </statement>
-
-              <solution>
-                    <p>
-                        Discuss and share with other groups.
-                    </p>
-              </solution>
-        </example> 
-
+       
           <example>
               <statement>
                 <p>
@@ -79,5 +71,4 @@
                 </p>
               </solution>
           </example>
-  </subsection>
 </section>
