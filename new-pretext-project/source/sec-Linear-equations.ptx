@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec-Linear-equations" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Linear-equations</title>
+  <title>Linear Eqquations</title>
 
       <subsection xml:id="subsec-Forming_Equations_in_one_Unknown">
         <title>Forming Equations in One Unknown</title>
@@ -31,7 +31,198 @@
                </ol>
               </p>
             </activity>
+
+            <p>
+              <term>Learning Point.</term>
+            </p>
+
+            <p>
+              Equating the masses on both sides leads to the formation of an equation.
+            </p>
+
+            <example>
+              <statement>
+                <p>
+                  A pupil bought a shirt and a pair of shorts. The cost of the pair of shorts was <m>150</m> shillings less than that of the shirt. If the two items cost <m>950</m> shillings. Write an equation representing the information using letter x as the cost of a shirt.
+                </p>
+              </statement>
+
+              <solution>
+                <p>
+                  The cost of one pair of shorts is <m>x - 150</m>
+                </p>
+
+                <p>
+                  <m>x + (x - 150) = 950</m>
+                </p>
+
+                <p>
+                  <m>2x - 150 = 950</m>
+                </p>
+
+                <p>
+                  Thus the equation <m>2x - 150 = 950.</m>
+                </p>
+              </solution>
+            </example>
+
+            <exercise>
+              <statement>
+                <p>
+                  Exercise Here.
+                </p>
+              </statement>
+            </exercise>
         
+      </subsection>
+
+      <subsection xml:id="subsec-Solving_Linear_Equations_in_One_Unknown">
+        <title>Solving Linear Equations in One Unknown."</title>
+
+          <activity>
+            <title>Work in Groups</title>
+
+            <p>
+              <ol>
+
+              <li>
+                 <p>
+                    On one side of a beam balance, place five matchboxes of the same weight.
+                </p>
+              </li>
+
+              <li>
+                <p>
+                  On the other side, place two matchboxes.
+                </p>
+              </li>
+
+              <li>
+                <p>
+                  To the side with two matchboxes, gradually add grains of sand until the beam balances.
+                </p>
+              </li>
+
+              <li>
+                <p>
+                  From both sides, remove two matchboxes and observe whether the beam balances.
+                </p>
+              </li>
+
+              <li>
+                <p>
+                  Represent the mass of the added sand with a letter and form an equation involving the letter.
+                </p>
+              </li>
+
+              <li>
+                <p>
+                  Discuss and share your results with other groups.
+                </p>
+              </li>
+
+            </ol>
+            </p>
+          </activity>
+
+          <p>
+            <term>Learning Points.</term>
+          </p>
+           
+             <p>
+               <ol>
+
+                <li>
+                  <p>
+                    Subtracting a number from both sides of the equation.
+                  </p>
+                </li>
+
+                <li>
+                  <p>
+                    Adding a number to both sides of the equation.
+                  </p>
+                </li>
+
+                <li>
+                  <p>
+                    Dividing both sides of the equation by a number.
+                  </p>
+                </li>
+
+                <li>
+                  <p>
+                    Multiplying both sides of the equation by a number.
+                  </p>
+                </li>
+              </ol>
+             </p>
+      </subsection>
+
+      <subsection xml:id="subsec-Solving_Linear_Equations_in_One_Unknown">
+        <title>Solving_Linear Equations in One_Unknown"</title>
+          <example>
+            <statement>
+              <p>
+                Solve the following equation:
+              </p>
+
+              <p>
+                <m>x + 4 = 7</m>
+              </p>
+            </statement>
+
+            <solution>
+
+              <p>
+                Subtract <m>4</m> from both sides.
+              </p>
+              
+              <sidebyside>
+                
+                 <image source="./linear_inequality_sum.png">
+                <shortdescription>(for accessibility)</shortdescription>
+              </image>
+
+              <image source="./linear_inequality_sum_2.png">
+                <shortdescription>(for accessibility)</shortdescription>
+              </image>
+
+              </sidebyside>
+             
+            </solution>
+          </example>
+
+          <example>
+
+            <statement>
+              <p>
+                Solve <m>5x - 3 = 17</m>
+              </p>
+            </statement>
+
+            <solution>
+              <p>
+                Add <m>3</m> to both sides,
+              </p>
+
+              <p>
+                <m>5x - 3 + 3 = 17 + 3</m>
+              </p>
+              
+              <p>
+                <m>5 x = 20</m>
+              </p>
+
+              <p>
+                Divide both sides by <m>5</m>
+              </p>
+
+              <p>
+                <m>5x\div5 =  20\div5</m>
+              </p>
+            </solution>
+          </example>
       </subsection>
 
 </section>
