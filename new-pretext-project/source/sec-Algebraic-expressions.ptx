@@ -54,8 +54,21 @@
 
               <solution>
                   <p>
-                      The number of girls is <m>30 - n</m>
+                    There are <m>n</m> boys in the classroom.
                   </p>
+
+                  <p>
+                    To get the number of girls take the total  number of students subtract the number of boys. 
+                  </p>
+
+                  <p>
+                    Therefore, it cab be represented as;
+                  </p>
+
+                  <p>
+                    Number of girls = <m>30 - n</m>
+                  </p>
+
               </solution>
           </example>
 
@@ -67,8 +80,17 @@
               </statement>
               <solution>
                 <p>
-                  The total number of mango and orange trees are <m>x + y.</m>
+                  The total number of mango trees are m <m>x</m> and that of orange trees are <m>y.</m>
                 </p>
+
+                <p>
+                  To find the total numbers of mango and orange trees in the farm we add both the number of orange and mango trees available
+                </p>
+
+                <p>
+                  Therefore, the total number of trees is = <m>x + y.</m>
+                </p>
+                
               </solution>
           </example>
 </section>                                                                                                                    
