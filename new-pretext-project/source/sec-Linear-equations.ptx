@@ -94,6 +94,7 @@
             <exercise>
               <statement>
                 <p>
+                  <webwork source="" />
                   Exercise Here.
                 </p>
               </statement>
@@ -204,17 +205,21 @@
               
               <sidebyside>
                 
-                <image source="./linear_inequality_sum.png" width="30%">
+                <image source="./linear_inequality_sum.png" width="20%">
                   <shortdescription>(for accessibility)</shortdescription>
                 </image>
 
-                <p>
+                <image source="./linear_inequality_sum_2.png" width="20%">
+                  <shortdescription>(for accessibility)</shortdescription>
+                </image>
+
+              </sidebyside>
+
+              <sidebyside>
+
+                 <p>
                   By substracting <m>5</m> from both sides you balance the beam balance which is represents the following equation. <m>x + 4 - 4 = 7 - 4</m>
                 </p>
-
-                <image source="./linear_inequality_sum_2.png" width="30%">
-                  <shortdescription>(for accessibility)</shortdescription>
-                </image>
 
                 <p>
                   Therefore,  <m>x = 3</m>
