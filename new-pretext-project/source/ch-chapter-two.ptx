@@ -13,7 +13,7 @@
         <term>Why Learn Algebra?</term>
       </p>
       <p>
-         Watch this! <url href="https://youtu.be/H4g0GZsgq0I" />
+         Watch this! <video xml:id="yt-list-vars" youtube="H4g0GZsgq0I" width="60%" margins="5% 35%"/>
       </p>
 
   </introduction>
