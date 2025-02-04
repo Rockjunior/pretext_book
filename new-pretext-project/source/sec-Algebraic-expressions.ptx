@@ -10,6 +10,15 @@
         <p>
           <term>Formation of Algebraic Expression from  real  life  situations</term>
         </p>
+        <p>
+          In algebra, we use letters to form algebraic expressions.
+        </p>
+        <p>
+          <term>Why letters?</term>
+        </p>
+        <p>
+          Watch this! <video youtube="Tm98lnrlbMA" width="60%" margins="5% 35%"/>
+        </p>
                     
         
           <activity>
@@ -54,21 +63,8 @@
 
               <solution>
                   <p>
-                    There are <m>n</m> boys in the classroom.
+                      The number of girls is <m>30 - n</m>
                   </p>
-
-                  <p>
-                    To get the number of girls take the total  number of students subtract the number of boys. 
-                  </p>
-
-                  <p>
-                    Therefore, it cab be represented as;
-                  </p>
-
-                  <p>
-                    Number of girls = <m>30 - n</m>
-                  </p>
-
               </solution>
           </example>
 
@@ -80,17 +76,8 @@
               </statement>
               <solution>
                 <p>
-                  The total number of mango trees are m <m>x</m> and that of orange trees are <m>y.</m>
+                  The total number of mango and orange trees are <m>x + y.</m>
                 </p>
-
-                <p>
-                  To find the total numbers of mango and orange trees in the farm we add both the number of orange and mango trees available
-                </p>
-
-                <p>
-                  Therefore, the total number of trees is = <m>x + y.</m>
-                </p>
-                
               </solution>
           </example>
 </section>                                                                                                                    
