@@ -63,7 +63,16 @@
 
               <solution>
                   <p>
-                      The number of girls is <m>30 - n</m>
+                      If the number of boys is <m>n</m>
+                  </p>
+                  <p>
+                    To get the number of girls we need to subtract the number of boys from the total number of learners
+                  </p>
+                  <p>
+                    Therefore:
+                  </p>
+                  <p>
+                    The number of girls is; <m>30 - n</m>
                   </p>
               </solution>
           </example>
