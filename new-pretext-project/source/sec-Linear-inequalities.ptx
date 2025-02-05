@@ -10,21 +10,21 @@
     </p>
 
     <p>
-      <m>\lt</m>  <m>\rightarrow</m>  less than
+      Less than <m>\rightarrow</m> (<m>\lt</m>)
     </p>
     
-      <p>
-      <m>\gt</m>  <m>\rightarrow</m>  greater than
-      </p>
-      <p>
-      <m>\le</m>  <m>\rightarrow</m>  less than or equal to
-      </p>
-      <p>
-      <m>\ge</m>  <m>\rightarrow</m>  greater than or equal to
-      </p>
-      <p>
-      These inequalities express a range of possible values rather than just one specific solution.
-      </p>
+    <p>
+      Greater than <m>\rightarrow</m> (<m>\gt</m>)  
+    </p>
+    <p>
+      Less than or equal to <m>\rightarrow</m> (<m>\le</m>)  
+    </p>
+    <p>
+      Greater than or equal to <m>\rightarrow</m> (<m>\ge</m>)
+    </p>
+    <p>
+    These inequalities express a range of possible values rather than just one specific solution.
+    </p>
   </introduction>
 
     <subsection xml:id="subsec-Applying_Linear_Inequality_Symbols_to_inequality_statements">
@@ -155,11 +155,11 @@
       </p>
 
       <p>
-        The inequality sign for greater than or equal to is <m>\ge</m>.
+        The inequality sign for greater than or equal to is (<m>\ge</m>).
       </p>
 
       <p>
-        Inequality sign for less than or equal to is <m>\le</m>.
+        Inequality sign for less than or equal to is (<m>\le</m>).
       </p>
 
       <example>
