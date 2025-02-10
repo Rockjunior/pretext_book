@@ -2,14 +2,24 @@
 
 <section xml:id="sec-Algebraic-expressions" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Algebraic Expressions</title>
+<introduction>
   <p>
-    An algebraic expression is a combination of numbers, letters, and mathematical operations used to solve mathematical questions.
+    We often use math to solve problems in our daily lives. For example:
   </p>
+  <p>
+    - How much will it cost to buy a certain number of books?
+  </p>
+  <p>
+  - Measuring the total water needed to fill multiple containers.
+  </p>
+   <p>
+   To describe and solve these problems, we can use algebraic expressions. These expressions combine numbers, letters, and operations to represent real-life situations.
+  </p>
+</introduction>
 
-         
-        <p>
-          <term>Formation of Algebraic Expression from  real  life  situations</term>
-        </p>
+<p>
+  <term>Formation of Algebraic Expression from  real  life  situations</term>
+</p>
         <p>
           In algebra, we use letters to form algebraic expressions.
         </p>
