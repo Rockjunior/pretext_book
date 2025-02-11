@@ -2,6 +2,7 @@
 
 <chapter xml:id="ch-chapter-two" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Algebra</title>
+</chapter>
 
   <introduction>
   
@@ -24,14 +25,11 @@
 
   </introduction>
 
-  <!-- include sections -->
-  <xi:include href="sec-Algebraic-expressions.ptx" />
+<!-- include sections -->
+<xi:include href="sec-Algebraic-expressions.ptx" />
 
-  <!-- include sections -->
-  <xi:include href="sec-Linear-equations.ptx" />
+<!-- include sections -->
+<xi:include href="sec-Linear-equations.ptx" />
 
 <!-- include sections -->
   <xi:include href="sec-Linear-inequalities.ptx" />
-
-
-</chapter>
