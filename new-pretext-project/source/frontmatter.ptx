@@ -7,9 +7,16 @@
   <bibinfo>
   
     <author>
-      <personname>You</personname>
-      <department>Your department</department>
-      <institution>Your institution</institution>
+      <personname>MARAGIA RODGERS</personname>
+      <department>MATHEMATICS | IT DEPARTMENT</department>
+      <institution>INNODEMS</institution>
+      <email>maragiarodgers254@gmail.com</email>
+    </author>
+    <author>
+      <personname>ONYIMBO MICHAEL</personname>
+      <department>MATHEMATICS</department>
+      <institution>INNODEMS</institution>
+      <email>onyimbomichael02@gmail.com</email>
     </author>
     <date>
       <today />
@@ -21,7 +28,8 @@
 
     <copyright>
       <year>2020<ndash />2024</year>
-      <holder>You</holder>
+      <holder>MARAGIA RODGERS</holder>
+      <minilicense>ONYIMBO MICHAEL</minilicense>
       <shortlicense> This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit <url href="http://creativecommons.org/licenses/by-sa/4.0/" visual="creativecommons.org/licenses/by-sa/4.0"> CreativeCommons.org</url>
       </shortlicense>
     </copyright>

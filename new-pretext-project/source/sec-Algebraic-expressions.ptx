@@ -1,53 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec-Algebraic-expressions" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Algebraic-expressions</title>
-  
-   <subsection xml:id="subsec-Formation_of_Algebraic_Expression_from_real_life_situations">
-    <title>Formation of Algebraic Expression from real life situations</title>
-    <activity>
-     <p> <em>Work in groups</em> </p>
-       <p>
-        (i) Identify and form four groups of objects according to their
-          similarities.
-       </p>
-       <p>
-        (ii) To each group add or subtract a number of items.
-       </p>
-       <p>
-        (iii) Form and write expressions to represent the new number of items
-        in each group.
-       </p>
-       <p>
-        (iv) Discuss and share with other groups.
-       </p>
-        Learning point
-        <p>
-          The expressions formed are algebraic expressions. The expressions are
-          in one unknown.
-        </p>
-            <example>
-          <p>
-          1. In a classroom of 30 learners there are <m>n</m> boys. Form an expression for
-            the number of girls.
-          </p>
-          <p>
-            <em>Solution</em>
-          </p>
-          <p>
-            The number of girls is <m>30 - n</m>
-          </p>
-          <p>
-          2. There are <m>x</m> mangoes and <m>y</m> orange trees in a farm.Form an expression
-          for the total number of mango and orange trees in the farm.
-          </p> 
-        </example>
+  <title>Algebraic Expressions</title>
+<introduction>
+  <p>
+    We often use math to solve problems in our daily lives. For example:
+  </p>
+  <p>
+    - How much will it cost to buy a certain number of books?
+  </p>
+  <p>
+  - Measuring the total water needed to fill multiple containers.
+  </p>
+   <p>
+   To describe and solve these problems, we can use algebraic expressions. These expressions combine numbers, letters, and operations to represent real-life situations.
+  </p>
+</introduction>
 
-        <<em>example</em>>
+<p>
+  <term>Formation of Algebraic Expression from  real  life  situations</term>
+</p>
+        <p>
+          In algebra, we use letters to form algebraic expressions.
+        </p>
+        <p>
+          <term>Why letters?</term>
+        </p>
+        <p>
+          Watch this! <video youtube="Tm98lnrlbMA" width="60%" margins="5% 35%"/>
+        </p>
+                    
+        
+          <activity>
+          <title> <term>Work in groups</term> </title>
+              <p>
+                <ol>
+                  <li>
+                    <p>
+                      Identify and form four groups of objects according to their similarities.
+                    </p>
+                  </li>
+
+                      <li>
+                        <p>
+                          To each group add or subtract a number of items.
+                        </p>
+                      </li>
+
+                      <li>
+                        <p>
+                          Form and write expressions to represent the new number of items in each group.
+                        </p>
+                      </li>
+
+                      <li>
+                        <p>
+                            Discuss and share with other groups.
+                        </p>
+                      </li>
+                      
+                    </ol>
+                  </p>
+        </activity>
+       
+
+          <example>
+              <statement>
                 <p>
-                  There are x mangoes and y orangenin a farm.  Form
+                  In a classroom of <m>30</m> learners there are <m>n</m> boys. Form an expression for the number of girls.
                 </p>
+              </statement>
+
+              <solution>
+                  <p>
+                      If the number of boys is <m>n</m>
+                  </p>
+                  <p>
+                    To get the number of girls we need to subtract the number of boys from the total number of learners
+                  </p>
+                  <p>
+                    Therefore:
+                  </p>
+                  <p>
+                    The number of girls is; <m>30 - n</m>
+                  </p>
+              </solution>
           </example>
-    </activity>
-  </subsection>
-</section>
+
+          <example>
+              <statement>
+                <p>
+                  There are <m>x</m> mangoes and <m>y</m> oranges a farm.  Form an expression for the total number of mango and orange trees in the farm.
+                </p>
+              </statement>
+              <solution>
+                <p>
+                  The total number of mango and orange trees are <m>x + y.</m>
+                </p>
+              </solution>
+          </example>
+</section>                                                                                                                    
